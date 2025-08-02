@@ -1,5 +1,25 @@
 [
   {
+    "title": "Volkswagen Won't Like The Hyundai Ioniq 5's Charging Speed",
+    "link": "https://www.autoblog.com/reviews/volkswagen-wont-like-the-hyundai-ioniq-5s-charging-speed",
+    "pubDate": "8/2/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjExOTg5MTY1MDY2MTY4Mjk2/2025-hyundai-ioniq-5.jpg",
+    "description": "An EV's charging speed can tip the scales one way or the other, especially if you enjoy family road trips. While I may be cool with waiting half an hour for an electric crossover to charge on a weekend adventure, my kids, both of whom are under five years old, might feel differently. The Volkswagen ...",
+    "source": "Autoblog",
+    "titleSummary": "Hyundai's Electric Challenger Exposes VW's Charging Conundrum on Ioniq 5 Debut",
+    "descriptionSummary": "For families embarking on frequent road trips, an electric vehicle's charging speed can be a crucial factor. Slow refueling may not sit well with young children, so speed is often a top priority. A speedy recharge from the Volkswagen ID.4 could make all the difference."
+  },
+  {
+    "title": "Mazda Drops Enticing 2025 Mazda3 Lease Offer For August",
+    "link": "https://www.autoblog.com/carbuying/2025-mazda3-lease-offer-august",
+    "pubDate": "8/2/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTIxNDkw/2025-mazda3-25-s-hatchback.jpg",
+    "description": "If you’re looking for a small, powerful car that’s surprisingly spacious, the Mazda3 might be exactly what you need. The iconic small car from Mazda comes in either hatchback or sedan form and doesn’t skimp on style. Available 18-inch black alloy wheels go with just about any paint color, and ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Mazda Tempts Buyers with Limited-Time Lease Deal on 2025 Mazda3\"",
+    "descriptionSummary": "Mazda's compact Mazda3 boasts a spacious interior despite its sleek design. Available in both hatchback and sedan styles, this stylish car won't sacrifice room for passengers or cargo, even on models with striking 18-inch black wheels."
+  },
+  {
     "title": "Your EV Battery Is Spying on You: MIT Research Uncovers Hidden Location & Privacy Threats",
     "link": "https://www.autoblog.com/electric/your-ev-battery-is-spying-on-you-new-research-exposes-yet-more-hidden-privacy-risks",
     "pubDate": "8/2/2025",
@@ -278,25 +298,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Steal of the Summer: Hyundai Drops Jaw-Dropping Santa Fe Lease Price\"",
     "descriptionSummary": "The 2026 Hyundai Santa Fe embodies a bold new identity, shedding its sleek predecessor for a chunkier, more rugged design that diverges significantly from the curves of its predecessors."
-  },
-  {
-    "title": "Federal jury finds Tesla partly liable for fatal Autopilot crash",
-    "link": "https://www.autoblog.com/news/federal-jury-orders-tesla-to-pay-329m-for-fatal-autopilot-crash-setting-major-precedent",
-    "pubDate": "8/1/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTMwNTQw/teslas-newly-opened-showroom-at-the-bandra-kurla-complex-business-district-in-mumbai-india.jpg",
-    "description": "A jury in Miami has determined that Tesla should be held partly liable for a fatal 2019 crash involving the automaker's \"Autopilot\" driver-assist system, and is requiring Tesla to pay $329 million in damages to the family of the deceased and an injured survivor, multiple news outlets reported ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Tesla's Self-Drive Tech Blamed in Deadly Crash Verdict Shocks Industry and Investors\"",
-    "descriptionSummary": "A Miami jury has ruled that Tesla bears responsibility for a devastating 2019 car crash, which claimed one life and left another seriously injured. The company will owe nearly $330 million in compensation."
-  },
-  {
-    "title": "Ferrari shares dip 12% in biggest decline since 2016 listing",
-    "link": "https://www.autoblog.com/news/ferrari-just-had-its-worst-stock-day-ever-heres-what-happened",
-    "pubDate": "8/1/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTA3MDY4/piloti-ferrari-296-speciale.jpg",
-    "description": "Ferrari shares fell more than 12% on Thursday, the biggest single-day drop since the automaker was first publicly listed on stock exchanges in New York and Milan in 2016, Reuters reports. Yet unlike some automakers, Ferrari is maintaining its financial guidance amid uncertainty over the Trump ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Ferrari Stock Sinks to Two-Year Low in Sharpest Decline Yet\"",
-    "descriptionSummary": "Ferrari's shares plummeted nearly 12% on Thursday, marking the largest one-day decline since its IPO in 2016. Despite market volatility, the luxury carmaker has reaffirmed its financial projections despite ongoing uncertainty surrounding global trade policies."
   }
 ]
