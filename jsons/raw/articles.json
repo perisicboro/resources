@@ -1,5 +1,35 @@
 [
   {
+    "title": "Honda Drops Aggressive 2025 Prologue Lease Deal For August",
+    "link": "https://www.autoblog.com/carbuying/2025-honda-prologue-lease-deal-august",
+    "pubDate": "8/12/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MDg5NTU2NDEwMjc5Nzgw/2024-honda-prologue.jpg",
+    "description": "If the name “Prologue” sounds like Honda’s first EV, you’re not entirely wrong—but it’s not the first ever. That title technically goes to the short-lived Clarity and Fit EVs. This time around, the Prologue is stepping in as a placeholder until Honda rolls out its own fully in-house electric ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Honda Lowers the Boom on 2025 Prologue Leases This August\"",
+    "descriptionSummary": "Honda's latest all-electric offering, dubbed \"Prologue\", may seem like a debutante, but it's actually a transitional model preceding a lineup of full-fledged EVs from the manufacturer."
+  },
+  {
+    "title": "IIHS Wants 3 Canadian Driving Laws to Increase U.S. Road Safety",
+    "link": "https://www.autoblog.com/news/iihs-wants-3-canadian-driving-laws-to-increase-u-s-road-safety",
+    "pubDate": "8/12/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM2MTA5/testing-at-insurance-institute-for-highway-safety-iihs-headquarters-in-ruckersville-virginia.jpg",
+    "description": "The Insurance Institute for Highway Safety (IIHS) has highlighted multiple Canadian driving laws that it believes would decrease U.S. traffic fatality rates. The IIHS is advocating that the U.S. mirror Canada by expanding its use of traffic enforcement cameras while increasing the stringency of ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Canada's Safer Roads: IIHS Seeks U.S. Adoption of Key Traffic Reforms\"",
+    "descriptionSummary": "The Insurance Institute for Highway Safety recommends adopting more stringent traffic enforcement measures in the US, citing Canada's success with cameras and strict regulations as a model to reduce road fatalities and improve safety."
+  },
+  {
+    "title": "Ford Drops Affordable 2025 F-150 Lease Deal For August",
+    "link": "https://www.autoblog.com/carbuying/2025-ford-f150-lease-deal-august",
+    "pubDate": "8/12/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEyODM1MTgyODkyMjk1Njg5/2025-ford-f-150.jpg",
+    "description": "The Ford F-150 has been America’s best-selling vehicle for over four decades, a streak built on capability, adaptability, and a constant willingness to evolve. Whether it’s hauling gear to a job site or towing a camper for a weekend getaway, the F-150 has been the go-to for drivers who need their ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Ford Axed Popular 2025 F-150 Leasing Incentive for August Buyers\"",
+    "descriptionSummary": "For over 40 years, the Ford F-150 has reigned as America's top-selling vehicle, its enduring popularity rooted in its impressive versatility and commitment to innovation. It's the trusted companion of outdoor enthusiasts and DIYers alike."
+  },
+  {
     "title": "Audi RS6 Avant is having its best sales year ever",
     "link": "https://www.autoblog.com/news/audi-rs6-avant-is-having-its-best-sales-year-ever",
     "pubDate": "8/11/2025",
@@ -80,16 +110,6 @@
     "descriptionSummary": "Rarely does a remarkably well-preserved E39 BMW M5 with low mileage cross our path, boasting exceptional driving dynamics courtesy of its manual transmission and 5-liter V8 engine, renowned for delivering a thrilling and balanced driving experience."
   },
   {
-    "title": "New Dodge Charger Misses Out On Durango’s Coolest Option",
-    "link": "https://www.autoblog.com/news/dodge-charger-misses-durangos-coolest-option",
-    "pubDate": "8/11/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM2MzMw/dg026_010du.jpg",
-    "description": "Last week, Dodge announced the 2026 Durango with two changes that will please enthusiasts. One, the enduring SUV will still be available with the supercharged 6.2-liter V8 making 710 horsepower. The other relates to customization, as the Durango Hellcat will be available with the Jailbreak package, ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Dodge Charger Left in the Dust by Durango's Performance Edge\"",
-    "descriptionSummary": "Dodge has unveiled the 2026 Durango, boasting a thrilling upgrade for enthusiasts: the legendary SUV will now be paired with a supercharged V8 engine producing 710 horsepower, alongside an exciting new customization option."
-  },
-  {
     "title": "BMW Says Its Revival of Rolls-Royce Was a Secret Operation",
     "link": "https://www.autoblog.com/news/bmw-says-its-revival-of-rolls-royce-was-a-secret-operation",
     "pubDate": "8/11/2025",
@@ -98,6 +118,16 @@
     "source": "Autoblog",
     "titleSummary": "\"BMW's Stealth Takeover of Iconic Rolls-Royce Left Few in the Know\"",
     "descriptionSummary": "Rolls-Royce is synonymous with opulence, its reputation built over decades as a purveyor of the world's most sumptuous vehicles. Now part of the BMW group, this legendary brand continues to set the standard for luxury on wheels."
+  },
+  {
+    "title": "New Dodge Charger Misses Out On Durango’s Coolest Option",
+    "link": "https://www.autoblog.com/news/dodge-charger-misses-durangos-coolest-option",
+    "pubDate": "8/11/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM2MzMw/dg026_010du.jpg",
+    "description": "Last week, Dodge announced the 2026 Durango with two changes that will please enthusiasts. One, the enduring SUV will still be available with the supercharged 6.2-liter V8 making 710 horsepower. The other relates to customization, as the Durango Hellcat will be available with the Jailbreak package, ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Dodge Charger Left in the Dust by Durango's Performance Edge\"",
+    "descriptionSummary": "Dodge has unveiled the 2026 Durango, boasting a thrilling upgrade for enthusiasts: the legendary SUV will now be paired with a supercharged V8 engine producing 710 horsepower, alongside an exciting new customization option."
   },
   {
     "title": "I Drove the 2025 Lexus NX 350 F Sport. Here’s My Brutally Honest Review",
@@ -368,35 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Steal of the Month: Nissan's Red-Hot 2025 Rogue Lease Offer HITS!\"",
     "descriptionSummary": "While attention often focuses on more trendy crossovers, the humble Nissan Rogue remains a solid contender, offering impressive value and an array of desirable standard features at a reasonable price point."
-  },
-  {
-    "title": "Is Ford's New EV Really A Model T Moment?",
-    "link": "https://www.autoblog.com/features/is-ford-new-ev-really-a-model-t-moment",
-    "pubDate": "8/11/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM1NTY2/ford-ev-charging.jpg",
-    "description": "In a fit of marketing swagger,&nbsp;Ford Motor Company&nbsp;is calling Monday, August 11’s unveiling of its new EV “a Model T moment.” The words come from Ford President and CEO Jim Farley, uttered during Ford’s most recent earnings call. \"We will be in Kentucky to share more about our plans to ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Ford Electrifies with Game-Changing Ride: Can It Repeat History?\"",
-    "descriptionSummary": "Ford's CEO is likening the upcoming unveiling of their new electric vehicle to a pivotal moment in automotive history, citing its potential for widespread impact and transformative change."
-  },
-  {
-    "title": "Ford Offers Tempting 2025 Ranger Lease Deal For August",
-    "link": "https://www.autoblog.com/carbuying/2025-ford-ranger-lease-deal-august",
-    "pubDate": "8/10/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTA3NDg4/2025-ford-ranger.jpg",
-    "description": "The Ford Ranger has carved out its place in the midsize truck market as a practical alternative to full-size pickups. It’s big enough for real work yet still easy to maneuver in city traffic, making it a versatile choice for weekend projects, towing, or daily driving. In recent years, rivals like ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Ford's Summer Sizzler: Exclusive 2025 Ranger Lease Offer Arrives in August\"",
-    "descriptionSummary": "The Ford Ranger has staked its claim as a top midsize truck contender, offering a perfect balance of capability and agility. It's large enough for heavy-duty tasks yet nimble enough to navigate crowded city streets with ease."
-  },
-  {
-    "title": "Noel Gallagher’s One-of-a-Kind Jaguar MKII Convertible Finds a Buyer",
-    "link": "https://www.autoblog.com/news/noel-gallaghers-one-of-a-kind-jaguar-mkii-convertible-finds-a-buyer",
-    "pubDate": "8/10/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM1OTgx/1967-jaguar-mkii-convertible---noel-gallagher.jpg",
-    "description": "Few classic cars flaunt British suave as well as a Jaguar. But the 1967 Jaguar MKII Convertible owned by Oasis guitarist Noel Gallagher takes things to the next level, thanks to its story and unique character. While Jaguar’s recent sales have struggled to keep pace in a changing market, this car ...",
-    "source": "Autoblog",
-    "titleSummary": "Noel Gallagher's Iconic Vintage Jaguar Snapped Up by Discerning Collector",
-    "descriptionSummary": "Meet the ultimate British classic: Noel Gallagher's 1967 Jaguar MKII Convertible. This sleek gem exudes sophistication and style, elevated by its rich history and one-of-a-kind personality."
   }
 ]
