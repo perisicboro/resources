@@ -1,5 +1,15 @@
 [
   {
+    "title": "Ford Recalls Another 103,000 F-150 Pickups That Could Roll Away",
+    "link": "https://www.autoblog.com/news/ford-recalls-103000-f-150-pickups-rear-axle-bolt",
+    "pubDate": "8/12/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEyODM1MTgyODkyNDI2NzYx/2025-ford-f-150-stx.jpg",
+    "description": "Yesterday, Ford announced that it would be killing off the Escape next year to make way for a new mid-size electric pickup in the $30k range. But in the meantime, it has issues to address on its current truck, the F-150, after Reuters was first to report today that a new recall has been issued by ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Ford Issues Urgent Recall of 103,000 F-150s Prone to Spontaneous Movement.\"",
+    "descriptionSummary": "Ford is poised to debut a new mid-size electric pickup next year, priced around $30,000, but the automaker's immediate focus lies elsewhere - addressing pressing concerns on its current bestseller, the F-150. A new recall has just been announced."
+  },
+  {
     "title": "Roadtripping a Nissan Frontier: Here's My Honest Review From This Adventure",
     "link": "https://www.autoblog.com/reviews/roadtripping-a-nissan-frontier-heres-my-honest-review-from-this-adventure",
     "pubDate": "8/12/2025",
@@ -140,16 +150,6 @@
     "descriptionSummary": "Rarely does a remarkably well-preserved E39 BMW M5 with low mileage cross our path, boasting exceptional driving dynamics courtesy of its manual transmission and 5-liter V8 engine, renowned for delivering a thrilling and balanced driving experience."
   },
   {
-    "title": "New Dodge Charger Misses Out On Durango’s Coolest Option",
-    "link": "https://www.autoblog.com/news/dodge-charger-misses-durangos-coolest-option",
-    "pubDate": "8/11/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM2MzMw/dg026_010du.jpg",
-    "description": "Last week, Dodge announced the 2026 Durango with two changes that will please enthusiasts. One, the enduring SUV will still be available with the supercharged 6.2-liter V8 making 710 horsepower. The other relates to customization, as the Durango Hellcat will be available with the Jailbreak package, ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Dodge Charger Left in the Dust by Durango's Performance Edge\"",
-    "descriptionSummary": "Dodge has unveiled the 2026 Durango, boasting a thrilling upgrade for enthusiasts: the legendary SUV will now be paired with a supercharged V8 engine producing 710 horsepower, alongside an exciting new customization option."
-  },
-  {
     "title": "BMW Says Its Revival of Rolls-Royce Was a Secret Operation",
     "link": "https://www.autoblog.com/news/bmw-says-its-revival-of-rolls-royce-was-a-secret-operation",
     "pubDate": "8/11/2025",
@@ -158,6 +158,16 @@
     "source": "Autoblog",
     "titleSummary": "\"BMW's Stealth Takeover of Iconic Rolls-Royce Left Few in the Know\"",
     "descriptionSummary": "Rolls-Royce is synonymous with opulence, its reputation built over decades as a purveyor of the world's most sumptuous vehicles. Now part of the BMW group, this legendary brand continues to set the standard for luxury on wheels."
+  },
+  {
+    "title": "New Dodge Charger Misses Out On Durango’s Coolest Option",
+    "link": "https://www.autoblog.com/news/dodge-charger-misses-durangos-coolest-option",
+    "pubDate": "8/11/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM2MzMw/dg026_010du.jpg",
+    "description": "Last week, Dodge announced the 2026 Durango with two changes that will please enthusiasts. One, the enduring SUV will still be available with the supercharged 6.2-liter V8 making 710 horsepower. The other relates to customization, as the Durango Hellcat will be available with the Jailbreak package, ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Dodge Charger Left in the Dust by Durango's Performance Edge\"",
+    "descriptionSummary": "Dodge has unveiled the 2026 Durango, boasting a thrilling upgrade for enthusiasts: the legendary SUV will now be paired with a supercharged V8 engine producing 710 horsepower, alongside an exciting new customization option."
   },
   {
     "title": "I Drove the 2025 Lexus NX 350 F Sport. Here’s My Brutally Honest Review",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "Low-Mileage 1970 Dodge Challenger R/T Showstopper Hits Market for Enthusiasts",
     "descriptionSummary": "In 1970, Dodge unleashed the Challenger to take on Detroit's top muscle cars head-on. Fitted with a powerful 426 HEMI and badged as an R/T, this formidable vehicle quickly earned a notorious reputation on the streets. This tribute car pays homage to its raw, untamed spirit."
-  },
-  {
-    "title": "Why The 2025 Alfa Romeo Tonale Tributo Italiano Is The Right Sized Alfa You Can Afford",
-    "link": "https://www.autoblog.com/reviews/why-the-2025-alfa-romeo-tonale-tributo-italiano-is-the-right-sized-alfa-you-can-afford",
-    "pubDate": "8/11/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwODg2MzQ3/2025-alfa-romeo-tonale-tributo-italiano-special-series.jpg",
-    "description": "It may not be Mambo Italiano, but for the Tonale, it’s a special edition named Tributo Italiano that makes the Tonale feel truly exotic. While you may drive the Tonale to the grocery store through the suburbs, you can almost envision a jaunt over cobblestone roads that might’ve once been part of ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Affordable Luxury Hits the Mark with the All-New 2025 Alfa Romeo Tonale Tributo\"",
-    "descriptionSummary": "The Tonale's Tributo Italiano edition is a stylish homage to its European heritage. Whether navigating suburban streets or imagining a scenic Italian getaway, this special edition infuses the Tonale with a touch of la dolce vita."
   }
 ]
