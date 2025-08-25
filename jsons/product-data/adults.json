@@ -1,0 +1,84 @@
+{
+ "products": [
+  {
+   "id": "vuk-zavija-na-pun-mesec",
+   "name": "Vuk zavija na pun mesec",
+   "description": "Dečija pamučna majica sa motivom vuka",
+   "priceFrom": 1129,
+   "category": "Majice",
+   "image": "https://09470e59882b.ngrok-free.app/images/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  }
+ ]
+}
