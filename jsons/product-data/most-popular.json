@@ -166,7 +166,7 @@
    "description": "Dečija pamučna majica sa motivom kojota",
    "priceFrom": 1129,
    "collection": "najpopularniji",
-   "image": "https://09470e59882b.ngrok-free.app/images/najpopularniji/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+   "image": "",
    "variants": [
     {
      "size": "XXS",
@@ -246,7 +246,7 @@
    "description": "Dečija pamučna majica sa motivom vojnika",
    "priceFrom": 1129,
    "collection": "najpopularniji",
-   "image": "https://09470e59882b.ngrok-free.app/images/najpopularniji/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+   "image": "",
    "variants": [
     {
      "size": "XXS",
@@ -326,7 +326,7 @@
    "description": "Dečija pamučna majica sa motivom astronauta",
    "priceFrom": 1129,
    "collection": "najpopularniji",
-   "image": "https://09470e59882b.ngrok-free.app/images/najpopularniji/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+   "image": "",
    "variants": [
     {
      "size": "XXS",
@@ -406,7 +406,7 @@
    "description": "Dečija pamučna majica sa motivom svemira",
    "priceFrom": 1129,
    "collection": "najpopularniji",
-   "image": "https://09470e59882b.ngrok-free.app/images/najpopularniji/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+   "image": "",
    "variants": [
     {
      "size": "XXS",
@@ -486,7 +486,7 @@
    "description": "Dečija pamučna majica sa motivom dinosaurusa",
    "priceFrom": 1129,
    "collection": "najpopularniji",
-   "image": "https://09470e59882b.ngrok-free.app/images/najpopularniji/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+   "image": "",
    "variants": [
     {
      "size": "XXS",
@@ -566,7 +566,7 @@
    "description": "Dečija pamučna majica sa motivom dzipa",
    "priceFrom": 1129,
    "collection": "najpopularniji",
-   "image": "https://09470e59882b.ngrok-free.app/images/najpopularniji/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+   "image": "",
    "variants": [
     {
      "size": "XXS",
@@ -645,8 +645,8 @@
    "name": "Jednorog na livadi",
    "description": "Dečija pamučna majica sa motivom jednoroga",
    "priceFrom": 1129,
-   "collection": "najpopularniji",
-   "image": "https://09470e59882b.ngrok-free.app/images/najpopularniji/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+    "collection": "najpopularniji",
+    "image": "",
    "variants": [
     {
      "size": "XXS",
@@ -726,7 +726,7 @@
    "description": "Dečija pamučna majica sa motivom šarenog tigra",
    "priceFrom": 1129,
    "collection": "najpopularniji",
-   "image": "https://09470e59882b.ngrok-free.app/images/najpopularniji/design-6ae1a31e-b65d-49c7-b59b-494b7776d958_mockup.png",
+   "image": "",
    "variants": [
     {
      "size": "XXS",
