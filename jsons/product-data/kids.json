@@ -79,6 +79,4303 @@
      "price": 1169
     }
    ]
+  },
+  {
+   "id": "slatki-jednorog",
+   "name": "Slatki jednorog",
+   "description": "Dečija pamučna majica sa motivom jednoroga",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "jednorog-u-planinama",
+   "name": "Jednorog u planinama",
+   "description": "Dečija pamučna majica sa motivom jednoroga",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "kuca-u-sumi",
+   "name": "Kuca u šumi",
+   "description": "Dečija pamučna majica sa motivom kuce u šumi",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "vodeni-jednorog",
+   "name": "Vodeni jednorog",
+   "description": "Dečija pamučna majica sa motivom vodenog jednoroga",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "sareni-vuk",
+   "name": "Šareni vuk",
+   "description": "Dečija pamučna majica sa motivom šarenog vuka",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "astronaut",
+   "name": "Astronaut",
+   "description": "Dečija pamučna majica sa motivom astronauta",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "jeep-u-offroad",
+   "name": "Jeep u offroad",
+   "description": "Dečija pamučna majica sa motivom jeep vozila",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "vuk-i-mesecina",
+   "name": "Vuk i mesecina",
+   "description": "Dečija pamučna majica sa motivom vuka i meseca",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "kojot-u-pustinji",
+   "name": "Kojot u pustinji",
+   "description": "Dečija pamučna majica sa motivom kojota u pustinji",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "jednorozi-u-svemiru",
+   "name": "Jednorzi u svemiru",
+   "description": "Dečija pamučna majica sa motivom jednoroga u svemiru",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "sareni-lav",
+   "name": "Šareni lav",
+   "description": "Dečija pamučna majica sa motivom šarenog lava",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "delfini",
+   "name": "Delfini",
+   "description": "Dečija pamučna majica sa motivom delfina",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "eksplozivni-vojnik",
+   "name": "Eksplozivni vojnik",
+   "description": "Dečija pamučna majica sa motivom eksplozivnog vojnika",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "zeleni-vojnik",
+   "name": "Zeleni vojnik",
+   "description": "Dečija pamučna majica sa motivom zelenog vojnika",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "sareni-pas",
+   "name": "Šareni pas",
+   "description": "Dečija pamučna majica sa motivom šarenog psa",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "strasan-vuk",
+   "name": "Strašan vuk",
+   "description": "Dečija pamučna majica sa motivom strašnog vuka",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "strasan-dinosaurus",
+   "name": "Strašan dinosaurus",
+   "description": "Dečija pamučna majica sa motivom strašnog dinosaurusa",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "dva-astronauta",
+   "name": "Dva astronauta",
+   "description": "Dečija pamučna majica sa motivom dva astronauta",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "vuk-zavija-na-krvavi-mesec",
+   "name": "Vuk zavija na krvavi mesec",
+   "description": "Dečija pamučna majica sa motivom vuka koji zavija na krvavi mesec",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "brzi-svemir",
+   "name": "Brzi svemir",
+   "description": "Dečija pamučna majica sa motivom brzog svemira",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "vuk-u-sumi",
+   "name": "Vuk u šumi",
+   "description": "Dečija pamučna majica sa motivom vuka u šumi",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "brzi-vojnik",
+   "name": "Brzi vojnik",
+   "description": "Dečija pamučna majica sa motivom brzog vojnika",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "grupa-cudnih-zivotinja",
+   "name": "Grupa čudnih životinja",
+   "description": "Dečija pamučna majica sa motivom čudnih životinja",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "sivi-vuk",
+   "name": "Sivi vuk",
+   "description": "Dečija pamučna majica sa motivom sivog vuka",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "opaki-vuk",
+   "name": "Opaki vuk",
+   "description": "Dečija pamučna majica sa motivom opakog vuka",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "jednorog-u-svemiru",
+   "name": "Jednorog u svemiru",
+   "description": "Dečija pamučna majica sa motivom jednoroga u svemiru",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "braon-vuk-u-sumi",
+   "name": "Braon vuk u šumi",
+   "description": "Dečija pamučna majica sa motivom braon vuka u šumi",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+  {
+   "id": "opaki-vojnik",
+   "name": "Opaki vojnik",
+   "description": "Dečija pamučna majica sa motivom opakog vojnika",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+    {
+   "id": "super-vojnik",
+   "name": "Super vojnik",
+   "description": "Dečija pamučna majica sa motivom super vojnika",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "kul-astronaut",
+   "name": "Kul astronaut",
+   "description": "Dečija pamučna majica sa motivom kul astronauta",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "uvrnuti-svemir",
+   "name": "Uvrnuti svemir",
+   "description": "Dečija pamučna majica sa motivom uvrnutog svemira",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "jednorog-sumi",
+   "name": "Jednorog u sumi",
+   "description": "Dečija pamučna majica sa motivom jednoroga u sumi",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "plavi-vodeni-jednorog",
+   "name": "Plavi vodeni jednorog",
+   "description": "Dečija pamučna majica sa motivom plavog vodenog jednoroga",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "jednorog",
+   "name": "Jednorog",
+   "description": "Dečija pamučna majica sa motivom jednoroga",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "jednorog-i-talasi",
+   "name": "Jednorog i talasi",
+   "description": "Dečija pamučna majica sa motivom jednoroga i talasa",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  }, {
+   "id": "beba-jednorog",
+   "name": "Beba jednorog",
+   "description": "Dečija pamučna majica sa motivom bebe jednoroga",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  }, {
+   "id": "jimny-na-planini",
+   "name": "Jimny na planini",
+   "description": "Dečija pamučna majica sa motivom Jimny vozila na planini",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "dinosaurus",
+   "name": "Dinosaurus",
+   "description": "Dečija pamučna majica sa motivom dinosaurusa",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  }, {
+   "id": "kul-vojnik",
+   "name": "Kul vojnik",
+   "description": "Dečija pamučna majica sa motivom kul vojnika",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  }, {
+   "id": "sareni-lavic",
+   "name": "Šareni lavić",
+   "description": "Dečija pamučna majica sa motivom šarenog lavića",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  }, {
+   "id": "wrangler-u-planinama",
+   "name": "Wrangler u planinama",
+   "description": "Dečija pamučna majica sa motivom wranglera u planinama",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+   {
+   "id": "brzi-jeep",
+   "name": "Brzi jeep",
+   "description": "Dečija pamučna majica sa motivom brzog jeepa",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },
+   {
+   "id": "slatko-pace",
+   "name": "Slatko pače",
+   "description": "Dečija pamučna majica sa motivom slatkog pačeta",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "jednorog-na-livadi",
+   "name": "Jednorog na livadi",
+   "description": "Dečija pamučna majica sa motivom jednoroga na livadi",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "vuk-na-planini",
+   "name": "Vuk na planini",
+   "description": "Dečija pamučna majica sa motivom vuka na planini",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "crni-vuk-zavija",
+   "name": "Crni vuk zavija",
+   "description": "Dečija pamučna majica sa motivom crnog vuka koji zavija",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  }, {
+   "id": "beli-vuk-zavija",
+   "name": "Beli vuk zavija",
+   "description": "Dečija pamučna majica sa motivom belog vuka koji zavija",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  }, {
+   "id": "sareni-tigar",
+   "name": "Šareni tigar",
+   "description": "Dečija pamučna majica sa motivom šarenog tigra",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "vojnik",
+   "name": "Vojnik",
+   "description": "Dečija pamučna majica sa motivom vojnika",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "brzi-astronaut",
+   "name": "Brzi astronaut",
+   "description": "Dečija pamučna majica sa motivom brzog astronauta",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "delfini-se-igraju",
+   "name": "Delfini se igraju",
+   "description": "Dečija pamučna majica sa motivom delfina koji se igraju",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "astronaut-u-sarenom-svemiru",
+   "name": "Astronaut u šarenom svemiru",
+   "description": "Dečija pamučna majica sa motivom astronauta u šarenom svemiru",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "sarena-vucica",
+   "name": "Šarena vučica",
+   "description": "Dečija pamučna majica sa motivom šarene vučice",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
+  },  {
+   "id": "vojnik-sa-puskom",
+   "name": "Vojnik sa puškom",
+   "description": "Dečija pamučna majica sa motivom vojnika sa puškom",
+   "priceFrom": 1129,
+   "collection": "deca",
+   "image": "",
+   "variants": [
+    {
+     "size": "XXS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XXS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "XS",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "S",
+     "color": "Crna",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Crna",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Crna",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Crna",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Crna",
+     "price": 1169
+    },
+    {
+     "size": "S",
+     "color": "Bela",
+     "price": 1129
+    },
+    {
+     "size": "M",
+     "color": "Bela",
+     "price": 1139
+    },
+    {
+     "size": "L",
+     "color": "Bela",
+     "price": 1149
+    },
+    {
+     "size": "XL",
+     "color": "Bela",
+     "price": 1159
+    },
+    {
+     "size": "XXL",
+     "color": "Bela",
+     "price": 1169
+    }
+   ]
   }
  ]
 }
