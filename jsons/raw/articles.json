@@ -1,5 +1,25 @@
 [
   {
+    "title": "Volkswagen Unveils Hot 2025 ID.Buzz Lease Deal for August",
+    "link": "https://www.autoblog.com/carbuying/vw-2025-id-buzz-lease-deal-august",
+    "pubDate": "8/27/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEwMjE4NDUyMzI0MDY2ODk0/2025-vw-idbuzz.jpg",
+    "description": "Who would’ve thought Volkswagen’s flagship vehicle would be an electric throwback to its iconic van? The new 2025 ID.Buzz properly echoes the original Microbus/Type II but in truly modern fashion. Not only does it look like nothing else on the road, but it’s roomy, remarkably quick, and a true ...",
+    "source": "Autoblog",
+    "titleSummary": "VW Lures Early Buyers with Exclusive ID.Buzz Promotion in August Only",
+    "descriptionSummary": "Volkswagen's latest flagship vehicle is a sleek, electric tribute to its classic van heritage. The 2025 ID.Buzz seamlessly blends nostalgic charm with cutting-edge tech, boasting spacious interiors, impressive acceleration, and a uniquely distinctive design that sets it apart from the crowd."
+  },
+  {
+    "title": "2009 Aston Martin DBS V12 Up for Auction with Manual Transmission and 25,000 Miles",
+    "link": "https://www.autoblog.com/carbuying/2009-aston-martin-dbs-v12-for-auction-1",
+    "pubDate": "8/27/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ0OTQz/screenshot-2025-08-25-122228.png",
+    "description": "It’s not every day that you come across such a pristine, low-mileage Aston Martin DBS with a manual gearbox, just the way James Bond would like it. In fact, Daniel Craig drove one similar to this in 2008’s Quantum of Solace. Built during an era when the brand still offered its flagship grand tourer ...",
+    "source": "Autoblog",
+    "titleSummary": "Rare 2009 DBS V12 Heads to Auction with Low Mileage and Unusual Gearbox Option",
+    "descriptionSummary": "Rarity meets style in this exquisite Aston Martin DBS, boasting a manual transmission and remarkably low mileage. This sleek grand tourer echoes the cinematic flair of James Bond's iconic rides, including Daniel Craig's 2008 Quantum of Solace vehicle."
+  },
+  {
     "title": "Toyota Drops Impressive 2025 Grand Highlander Lease Deal for August",
     "link": "https://www.autoblog.com/carbuying/2025-toyota-grand-highlander-lease-deal-august",
     "pubDate": "8/27/2025",
@@ -60,16 +80,6 @@
     "descriptionSummary": "When BMW's high-performance M4 Competition gets a massive boost in power and luxury amenities, it becomes a formidable opponent to even the most exclusive sports cars - all at a fraction of the cost."
   },
   {
-    "title": "Rolls-Royce Put 4,796 Stars in Its New Spectre Primavera EV",
-    "link": "https://www.autoblog.com/news/4796-hand-placed-stars-rolls-royces-obsessive-spring-themed-ev",
-    "pubDate": "8/26/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ1NDc0/1-spectre-inspired-by-primavera-evanescent-7-embroidered-headrests.jpg",
-    "description": "Fall may soon be upon us, but Rolls-Royce is thinking ahead. The automaker is launching a curated spec of its Spectre electric coupe with springtime vibes. The Spectre Inspired by Primavera (the Italian word for spring) is available to order until the end of the year, timed so that customer ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Rolls-Royce Shines Bright with Its Electrifying 4,796-Bulb Star-Studded Spectre Debut\"",
-    "descriptionSummary": "As autumn's chill begins to set in, Rolls-Royce looks ahead to the warmth of spring. Its limited-edition Spectre electric coupe, evoking the season's vibrant spirit, can be ordered through year's end, ensuring a timely delivery for eager customers come spring."
-  },
-  {
     "title": "BMW Rolls Out Fresh 2025 7 Series Lease Deals for August",
     "link": "https://www.autoblog.com/carbuying/2025-bmw-7-series-lease-deals-august",
     "pubDate": "8/26/2025",
@@ -78,6 +88,16 @@
     "source": "Autoblog",
     "titleSummary": "\"New 2025 BMW 7-Series Leases Hit Showrooms in August\"",
     "descriptionSummary": "For decades, the BMW 7 Series has epitomized the brand's commitment to innovative luxury, seamlessly integrating cutting-edge technology, sleek design, and opulent comfort to establish its reputation as an industry benchmark."
+  },
+  {
+    "title": "Rolls-Royce Put 4,796 Stars in Its New Spectre Primavera EV",
+    "link": "https://www.autoblog.com/news/4796-hand-placed-stars-rolls-royces-obsessive-spring-themed-ev",
+    "pubDate": "8/26/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ1NDc0/1-spectre-inspired-by-primavera-evanescent-7-embroidered-headrests.jpg",
+    "description": "Fall may soon be upon us, but Rolls-Royce is thinking ahead. The automaker is launching a curated spec of its Spectre electric coupe with springtime vibes. The Spectre Inspired by Primavera (the Italian word for spring) is available to order until the end of the year, timed so that customer ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Rolls-Royce Shines Bright with Its Electrifying 4,796-Bulb Star-Studded Spectre Debut\"",
+    "descriptionSummary": "As autumn's chill begins to set in, Rolls-Royce looks ahead to the warmth of spring. Its limited-edition Spectre electric coupe, evoking the season's vibrant spirit, can be ordered through year's end, ensuring a timely delivery for eager customers come spring."
   },
   {
     "title": "EV Buyers Can Still Get the $7,500 Tax Credit After September 30 — Here’s How",
@@ -378,25 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"BMW's i5 Deals Get a Refresh in August with New Leasing Promotions\"",
     "descriptionSummary": "Building on its reputation as a masterclass blend of comfort, performance, and sophistication, BMW's electrified midsize luxury sedan seamlessly merges the best of its heritage with cutting-edge EV technology."
-  },
-  {
-    "title": "The Hellcat-Powered Minivan We've Been Waiting For Has Arrived with 1,000 HP",
-    "link": "https://www.autoblog.com/news/the-hellcat-powered-minivan-weve-been-waiting-for-has-arrived-with-1000-hp",
-    "pubDate": "8/25/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ0NzY1/screenshot.jpg",
-    "description": "Stellantis has stuffed its supercharged 6.2-liter Hellcat V8 into sedans, coupes, SUVs, and a pickup truck, but so far there's one type of vehicle that hasn't been blessed with this powerful engine: the humble minivan. The amount of engineering required to create a Chrysler Pacifica Hellcat likely ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Devil's in the Details: Dodge Unleashes a Fury-Fueled Minivan like No Other\"",
-    "descriptionSummary": "Stellantis has unleashed its mighty 6.2-liter Hellcat V8 in various forms across their lineup, but one model remains untouched - the minivan. Bringing this beast to life in a people-mover is no trivial feat."
-  },
-  {
-    "title": "Hennessey boosts the Ram 1500 RHO to 700 HP",
-    "link": "https://www.autoblog.com/news/if-you-cant-wait-for-a-new-ram-1500-trx-hennesseys-700-hp-rho-is-here-now",
-    "pubDate": "8/25/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ0ODE5/screenshot.jpg",
-    "description": "While the V8-powered Ram 1500 TRX is expected to return soon, the six-cylinder RHO remains the most enthusiast-friendly version of Stellantis' full-size pickup truck. And just as it's done with the TRX—and many other trucks, SUVs, and muscle cars—Hennessey Performance Engineering has given the RHO ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Ram 1500 RHO Gets Turbocharged Makeover with 700-Horsepower Boost\"",
-    "descriptionSummary": "The Ram 1500 TRX may be revving up its V8 engine soon, but Stellantis' six-cylinder variant remains a favorite among enthusiasts. Hennessey Performance Engineering has now unleashed its unique touch on this model, elevating it to new heights of performance and excitement."
   }
 ]
