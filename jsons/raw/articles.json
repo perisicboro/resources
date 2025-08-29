@@ -1,5 +1,35 @@
 [
   {
+    "title": "Malaysia’s $500K Luxury Coupe Packs 810 HP and a Supercharged Hemi",
+    "link": "https://www.autoblog.com/news/malaysias-500k-luxury-coupe-packs-810-hp-and-a-supercharged-hemi",
+    "pubDate": "8/29/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ3NjA0/screenshot.jpg",
+    "description": "Malaysia's auto industry isn't well known in the West, although it does boast the duo of Perodua and Proton, mostly making basic vehicles that only appear in small numbers outside their home region (although Proton did own Lotus for a time). Bucking that trend is Bufori, which since the 1980s has ...",
+    "source": "Autoblog",
+    "titleSummary": "Malaysia- Built Beast Roars to Life with Monster 810 HP V8 Muscle",
+    "descriptionSummary": "In Southeast Asia's automotive underbelly, one brand stands out from Malaysia's largely niche market: Bufori. Founded decades ago, this company has consistently produced high-quality vehicles with a global appeal, defying regional conventions."
+  },
+  {
+    "title": "New Auto Loan Tax Break Could Save You Money, But There’s a Catch",
+    "link": "https://www.autoblog.com/news/new-auto-loan-tax-break-could-save-you-money-but-theres-a-catch",
+    "pubDate": "8/29/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEyMjMzODY1NDU5NjA3MDQ5/2025-toyota-sienna.jpg",
+    "description": "Tucked inside President Trump’s recently signed tax law is a provision aimed squarely at reshaping consumer behavior. Starting in 2025, buyers who finance a new car assembled in the U.S. can claim a tax deduction on the loan interest they pay. On paper, it’s a significant shift. The measure applies ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Tax Relief for Car Buyers: A Double-Edged Financial Opportunity\"",
+    "descriptionSummary": "A little-noticed clause within President Trump's recent tax overhaul is set to revolutionize consumer behavior by 2025, when buyers of American-made cars will be eligible for a valuable tax break on their car loan interest payments."
+  },
+  {
+    "title": "GM slows production of two of its most expensive EVs",
+    "link": "https://www.autoblog.com/news/gm-cuts-back-hummer-ev-and-escalade-iq-production-amid-slowing-demand",
+    "pubDate": "8/29/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ3NzMy/the-first-2022-gmc-hummer-ev-pickup-edition-1-exits-factory-zero-in-detroit-and-hamtramck-michigan-vin-001-was-auctioned-in-march-2021-at-the-barrett-jackson-scottsdale-auction-for-25-million-to-benef.jpg",
+    "description": "General Motors is reducing production of two of its biggest and most expensive electric vehicles at Factory Zero, the automaker's dedicated EV assembly plant in Hamtramck, Michigan, adjacent to Detroit. The first and second shifts for the GMC Hummer EV and Cadillac Escalade IQ will be idled between ...",
+    "source": "Autoblog",
+    "titleSummary": "GM Cuts Back on Luxury EV Output Amid Market Shifts and High Costs",
+    "descriptionSummary": "General Motors is temporarily scaling back production of its premium electric vehicles at its Factory Zero facility in Hamtramck, Michigan, where workers on the GMC Hummer EV and Cadillac Escalade EQ lines will see reduced shifts."
+  },
+  {
     "title": "Subaru’s More Capable Forester Wilderness Gets Hefty Price Bump Over Predecessor",
     "link": "https://www.autoblog.com/news/subarus-capable-forester-wilderness-comes-at-a-price",
     "pubDate": "8/29/2025",
@@ -368,35 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Burned to Ashes: Tesla's Futuristic Truck Fails the Ultimate Safety Test\"",
     "descriptionSummary": "A devastating crash in Texas has sparked concerns about Tesla's Cybertruck safety after a driver lost control of the vehicle, which crashed into a concrete barrier and caught fire, causing severe damage to the occupant's remains."
-  },
-  {
-    "title": "European Automakers Warn That Combustion Engine Ban Isn't Possible",
-    "link": "https://www.autoblog.com/news/european-automakers-warn-that-combustion-engine-ban-isnt-possible",
-    "pubDate": "8/27/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ2MjE3/electric-cars-at-an-electricity-filling-station.jpg",
-    "description": "Industry leaders urged European Commission President Ursula von der Leyen to reconsider plans for phasing out fossil fuel-powered vehicles by the mid-2030s.\n",
-    "source": "Autoblog",
-    "titleSummary": "\"EU's Electric Mandate Sparks Fears of Impossible Timeline for Fossil Fuel Phaseout\"",
-    "descriptionSummary": "Top automotive executives have called on EU Commission President Ursula von der Leyen to rethink her proposal to ban new gas-guzzlers entirely by 2035, sparking a heated debate over the region's transition to cleaner transportation."
-  },
-  {
-    "title": "Tesla’s New Low Power Mode Is Great, But Could Be A Security Risk",
-    "link": "https://www.autoblog.com/news/teslas-new-low-power-mode-is-security-risk",
-    "pubDate": "8/27/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ2MDcz/destinationcharging_85.jpg",
-    "description": "Tesla is always looking for ways to optimize its vehicles via software updates, and we imagine most owners will appreciate a new feature designed to conserve as much energy as possible when the vehicle is parked.&nbsp; It’s called Low Power Mode, and it will possibly be introduced to Tesla’s ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Tesla's Energy-Saving Feature Raises Concerns Over Potential Vulnerability to Hackers\"",
-    "descriptionSummary": "Tesla is continually refining its vehicles through software enhancements. One upcoming addition is a low-power parking mode that minimizes energy consumption while the car is stationary, a feature likely to delight many owners."
-  },
-  {
-    "title": "Next-Gen Ford Mustang Secures Its Future With GT500 Revival and V8 Power",
-    "link": "https://www.autoblog.com/news/ford-just-dropped-a-bombshell-about-the-next-mustang",
-    "pubDate": "8/27/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ1OTM3/2025-ford-mustang-60th-anniversary-package-in-brittany-blue-rear.jpg",
-    "description": "Rumors about the Mustang’s demise have been swirling louder than a Shelby exhaust note. Some enthusiasts feared the S650 generation would be its swan song, while others assumed Ford’s EV pivot meant the pony car was next for the chopping block. But here’s the twist: not only is the Mustang sticking ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Ford Revives GT500 Legacy with High-Powered New Mustang Muscle Car\"",
-    "descriptionSummary": "Despite widespread speculation about its fate, the iconic Mustang has defied expectations and secured a place in Ford's future lineup. The S650 generation will soldier on, bucking trends and silencing skeptics in the process."
   }
 ]
