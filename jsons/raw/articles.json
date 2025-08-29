@@ -1,5 +1,45 @@
 [
   {
+    "title": "Nissan uses this cool tech to improve engine efficiency",
+    "link": "https://www.autoblog.com/news/this-world-first-tech-helps-nissan-engines-last-longer-and-run-smarter",
+    "pubDate": "8/29/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTEyODQz/nissan_qq_final_high_015jpg.jpg",
+    "description": "Hybrids don't just rely on electrification to increase fuel economy. Nissan introduced a dedicated engine for its third-generation e-Power hybrid system, which is due to reach the United States in 2026, with an efficiency-focused engineering change that also required a new manufacturing process. ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Nissan Cranks Up Engine Performance with Innovative Fuel-Saving Breakthrough\"",
+    "descriptionSummary": "Nissan's next-gen e-Power hybrid boasts a specially designed engine optimized for fuel efficiency, accompanied by a refined production method. The enhanced technology is set to debut in the US market in 2026."
+  },
+  {
+    "title": "MG plans major expansion with 13 new models in two years",
+    "link": "https://www.autoblog.com/news/this-storied-british-sports-car-brand-is-about-to-launch-a-major-global-comeback",
+    "pubDate": "8/29/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MDg5MTAzNTYwNTE3NDc2/mg-cyberster.jpg",
+    "description": "MG, the British automaker best known for its nimble sports cars, has been brought back from near oblivion by SAIC, the Chinese state-owned automaker that bought it in 2005. MG now boasts a small lineup of sedans, hatchbacks, and crossovers sold in both China and Europe. But it's got big plans for ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Massive Model Rollout Planned as MG Unveils Ambitious Two-Year Expansion Strategy\"",
+    "descriptionSummary": "Following its dramatic revival under Chinese ownership, British marque MG has undergone a remarkable transformation, expanding its range to include stylish sedans, versatile hatchbacks, and capable crossovers that are now enjoyed by motorists on two continents."
+  },
+  {
+    "title": "Lotus to Cut 550 Jobs at UK Headquarters Amid Tariff Trouble",
+    "link": "https://www.autoblog.com/news/lotus-to-cut-550-jobs-at-uk-headquarters-amid-tariff-trouble",
+    "pubDate": "8/29/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ3MTY3/lotus-showroom-in-london.jpg",
+    "description": "The cuts amount to about 40% of the staff at its Hethel headquarters.",
+    "source": "Autoblog",
+    "titleSummary": "Lotus Announces Major Restructuring Plan in Wake of Trade Disruptions.",
+    "descriptionSummary": "The company is undergoing significant restructuring, with roughly 40 percent of its Hethel-based workforce being let go in a major reduction effort."
+  },
+  {
+    "title": "Ford F-150 Lightning SuperTruck Just Set A Supercar-Crushing Nürburgring Lap Time",
+    "link": "https://www.autoblog.com/news/ford-f-150-lightning-supertruck-nurburgring-lap-time",
+    "pubDate": "8/29/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ3NTA2/dsc00839.jpg",
+    "description": "Earlier this month, Ford set a blistering Nürburgring lap time in a Transit SuperVan, a pumped-up electric van that lapped the Green Hell faster than the Chevy Corvette ZR1X. At the time, Ford said that its F-150 Lightning SuperTruck was at the ‘Ring on the same day, and now we have this truck’s ...",
+    "source": "Autoblog",
+    "titleSummary": "Ford's Electric F-150 Sets Shocking Record at the Nürburgring Circuit",
+    "descriptionSummary": "Ford's Transit SuperVan made headlines last month with a record-breaking Nürburgring lap, outpacing the Chevy Corvette ZR1X. Meanwhile, its F-150 Lightning SuperTruck quietly logged its own Nürburgring session on the same day."
+  },
+  {
     "title": "A Michigan dealer is selling a Lamborghini Huracán Super Trofeo titled for road use",
     "link": "https://www.autoblog.com/news/this-lamborghini-huracan-race-car-is-apparently-street-legal-in-michigan",
     "pubDate": "8/29/2025",
@@ -80,16 +120,6 @@
     "descriptionSummary": "Ford's CEO recently clarified that there won't be an electric Mustang sports car anytime soon. However, the company did launch an electrified crossover called a Mustang in 2020, sparking some confusion over the brand's future plans."
   },
   {
-    "title": "Millionaire’s Pagani Huayra Roadster Suffers Delivery Disaster in Monaco",
-    "link": "https://www.autoblog.com/news/millionaires-3m-pagani-totaled-before-it-even-hit-the-road",
-    "pubDate": "8/28/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ2NzI4/screenshot-2025-08-28-at-103046am.png",
-    "description": "Imagine waiting years for a bespoke, hand-built hypercar, flying in the craftsmen from Modena to discuss stitching, leather shades, and the tint of exposed carbon… only to have it fall victim to a clumsy transporter. That’s exactly what happened in Monaco when a&nbsp;$3.5 million Pagani Huayra ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Monaco Mishap for Rare and Expensive Italian Supercar\"",
-    "descriptionSummary": "A prized $3.5 million Pagani Huayra suffered a devastating mishap during transport in Monaco, marred by an unfortunate collision that raises questions about the fragility of bespoke masterpieces and the risks they face in transit."
-  },
-  {
     "title": "Chevy Pulls Ahead of Ford in the Fight for EV Buyers",
     "link": "https://www.autoblog.com/news/ford-losing-market-share-to-chevy-ev-segment",
     "pubDate": "8/28/2025",
@@ -98,6 +128,16 @@
     "source": "Autoblog",
     "titleSummary": "Chevy Edges Out Ford in Electric Vehicle Sales Showdown",
     "descriptionSummary": "The Ford Mustang Mach-E is poised to face a turning point as it enters its fifth year on the market. After four consecutive years of growth in US sales, the electric vehicle's momentum may be slowing due to cooling demand and intensifying competition from new entrants in the segment."
+  },
+  {
+    "title": "Millionaire’s Pagani Huayra Roadster Suffers Delivery Disaster in Monaco",
+    "link": "https://www.autoblog.com/news/millionaires-3m-pagani-totaled-before-it-even-hit-the-road",
+    "pubDate": "8/28/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ2NzI4/screenshot-2025-08-28-at-103046am.png",
+    "description": "Imagine waiting years for a bespoke, hand-built hypercar, flying in the craftsmen from Modena to discuss stitching, leather shades, and the tint of exposed carbon… only to have it fall victim to a clumsy transporter. That’s exactly what happened in Monaco when a&nbsp;$3.5 million Pagani Huayra ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Monaco Mishap for Rare and Expensive Italian Supercar\"",
+    "descriptionSummary": "A prized $3.5 million Pagani Huayra suffered a devastating mishap during transport in Monaco, marred by an unfortunate collision that raises questions about the fragility of bespoke masterpieces and the risks they face in transit."
   },
   {
     "title": "The Tesla Model Y Performance Is Finally Coming Back",
@@ -358,45 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"BMW Tuned to Fury: $42,000 Upgrade Pushes M4 Past Mustang's Limits\"",
     "descriptionSummary": "When BMW's high-performance M4 Competition is equipped with a significant investment, it becomes an astonishingly fast and affordable ride - a fraction of the price of top-tier performance cars like the Ford Mustang GTD."
-  },
-  {
-    "title": "Rolls-Royce Put 4,796 Stars in Its New Spectre Primavera EV",
-    "link": "https://www.autoblog.com/news/4796-hand-placed-stars-rolls-royces-obsessive-spring-themed-ev",
-    "pubDate": "8/26/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ1NDc0/1-spectre-inspired-by-primavera-evanescent-7-embroidered-headrests.jpg",
-    "description": "Fall may soon be upon us, but Rolls-Royce is thinking ahead. The automaker is launching a curated spec of its Spectre electric coupe with springtime vibes. The Spectre Inspired by Primavera (the Italian word for spring) is available to order until the end of the year, timed so that customer ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Electric Dream Takes Flight: Rolls-Royce's Revolutionary 4,796-Pin Starlight Sedan Unveiled\"",
-    "descriptionSummary": "As summer gives way to autumn, Rolls-Royce looks forward to spring. A limited-edition Spectre electric coupe, inspired by the season's renewal, will be available through year-end orders, perfectly timed for a fresh start in the new year."
-  },
-  {
-    "title": "EV Buyers Can Still Get the $7,500 Tax Credit After September 30 — Here’s How",
-    "link": "https://www.autoblog.com/news/irs-loophole-extends-7500-ev-tax-credit",
-    "pubDate": "8/26/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ1NDk5/tesla-charging.jpg",
-    "description": "There’s little more than a month to go before the federal tax credit for electric vehicles, worth up to $7,500, falls away as part of the One Big Beautiful Bill Act. This incentive will make cheaper EVs like the Chevrolet Equinox EV much less affordable, but more expensive ones will also be ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Crash-Landing into Savings: New Path Emerges for EV Owners to Claim Full Tax Break\"",
-    "descriptionSummary": "A critical deadline is approaching for electric vehicle buyers: the federal tax credit that can reach up to $7,500 will expire soon under the One Big Beautiful Bill Act, significantly increasing the cost of even higher-end models."
-  },
-  {
-    "title": "Rivian Recalls Tiny Batch of R1S and R1T EVs Over Sudden Power Loss",
-    "link": "https://www.autoblog.com/news/rivian-recalls-tiny-batch-of-r1s-and-r1t-evs-over-sudden-power-loss",
-    "pubDate": "8/26/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM2MzAx/photo-936301.jpg",
-    "description": "Rivian is recalling just 23 vehicles because of a potential electrical fault that could lead to a sudden loss of power. The affected vehicles—a mix of 2025 Rivian R1S SUVs and 2025 Rivian R1T pickup trucks—may have been assembled with an improperly grounded connection inside their High Voltage ...",
-    "source": "Autoblog",
-    "titleSummary": "Rivian Issues Urgent Recall for Select Models Experiencing Mysterious Loss of Propulsion",
-    "descriptionSummary": "Rivian is issuing a recall for 23 vehicles due to a potential electrical issue that could cause sudden power loss. The affected models, including 2022 R1S SUVs and R1T pickup trucks, may contain a faulty high-voltage system component."
-  },
-  {
-    "title": "Why American SUVs Might Soon Be Sold in Europe—And Vice Versa",
-    "link": "https://www.autoblog.com/news/why-american-suvs-might-soon-be-sold-in-europe-and-vice-versa",
-    "pubDate": "8/26/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ1NTMx/usa_europe_mutual_regulations.jpg",
-    "description": "For decades, the Atlantic has been more than just an ocean separating American and European cars. It’s been a wall of different crash rules, emissions standards, and design quirks that force automakers to essentially build two versions of the same vehicle. That could soon change. A new trade ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Transatlantic Trade Shift Could Bring US SUVs to Europe and European Models to America\"",
-    "descriptionSummary": "For years, the Atlantic Ocean has posed a significant barrier between North America's automotive market and Europe's, with distinct regulations governing safety, emissions, and design. However, a landmark trade agreement may be poised to bridge this divide."
   }
 ]
