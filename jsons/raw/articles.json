@@ -1,13 +1,23 @@
 [
   {
-    "title": "Hyundai Factory Workers Launch Strike Over Hours, Pay Disputes",
+    "title": "No More Chinese Code in Your Car: What 2027 Rules Mean",
+    "link": "https://www.autoblog.com/news/no-more-chinese-code-in-your-car-what-2027-rules-mean",
+    "pubDate": "9/4/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ4ODA5/image.png",
+    "description": "Starting with Model Year 2027, the U.S. bans “covered software” from Chinese- or Russian-controlled suppliers in any new connected vehicle sold here. It also bars sales by manufacturers with a sufficient nexus to China or Russia. For hardware in the Vehicle Connectivity System (VCS), the cut-off ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Say Goodbye to Beijing-Made Auto Tech: How New Laws Will Impact Vehicles\"",
+    "descriptionSummary": "As of Model Year 2027, the US will prohibit \"covered software\" from Chinese- and Russian-controlled suppliers in newly manufactured vehicles, and restrict sales by companies with significant ties to those countries. The ban also applies to vehicle hardware components."
+  },
+  {
+    "title": "Hyundai Factory Workers Launch Strike Over Hours & Pay Disputes",
     "link": "https://www.autoblog.com/news/hyundai-factory-workers-launch-strike-over-hours-pay-disputes",
     "pubDate": "9/3/2025",
     "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ5Njg1/production-of-ioniq-5-as-hyundai-returns-to-japan-with-an-online-only-all-electric-plan.jpg",
     "description": "According to a report published by Reuters and The Wall Street Journal, South Korean automotive giant Hyundai is facing strike action this week at three different factories in its native country in an effort to press the automaker for shorter working hours, a retirement-age extension, and higher ...",
     "source": "Autoblog",
-    "titleSummary": "\"Hyundai Production Halted as Employees Protest Scheduling and Wages\"",
-    "descriptionSummary": "South Korea's Hyundai is bracing for strikes at three domestic factories, as workers push for concessions including reduced workdays, extended retirement ages, and increased compensation."
+    "titleSummary": "\"Hyundai Plant Halted by Labor Unrest Over Wages and Shift Schedule Grievances\"",
+    "descriptionSummary": "Hyundai workers in South Korea are set to stage a nationwide strike at three major factories, demanding reduced working hours, extended retirement ages, and improved compensation. The dispute has garnered significant attention from global business outlets."
   },
   {
     "title": "Ford's Best Off-Road Bronco Just Got A Huge Discount, But It Won't Last",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "Lexus to Unveil Its Most Ambitious Automotive Innovation Yet in Tokyo",
     "descriptionSummary": "The Japan Mobility Show has become the premier platform for showcasing Japan's cutting-edge automotive innovations, hosting pivotal debuts of influential vehicles that have captured the world's attention. This biennial event has been instrumental in shaping the industry."
-  },
-  {
-    "title": "Tesla Just Learned a $183 Million Lesson in Latest Gamble-Gone-Wrong",
-    "link": "https://www.autoblog.com/news/tesla-just-learned-a-183-million-lesson-in-latest-gamble-gone-wrong",
-    "pubDate": "9/1/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEyMDIxOTMzMjUwNzgyNzU1/the-tesla-logo-on-a-dealership-in-berlin.jpg",
-    "description": "Tesla has lost $183 million more than it would’ve if it had accepted the initial $60 million settlement offer for a 2019 fatal crash involving one of the manufacturer’s Autopilot-engaged Model S vehicles. After Tesla declined the settlement proposal, offered on May 30, a jury awarded the estate of ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Tesla Takes a Shocking Hit in Latest Misjudged Business Bet\"",
-    "descriptionSummary": "A fatal 2019 car accident involving an Autopilot-equipped Tesla led to a $60 million settlement offer that was initially rejected by the company. The rejection ultimately resulted in a significantly larger award to the victim's family from a subsequent jury verdict."
   }
 ]
