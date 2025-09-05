@@ -1,5 +1,15 @@
 [
   {
+    "title": "First Look: BMW’s New iX3 is the Shape of What’s to Come",
+    "link": "https://www.autoblog.com/news/first-look-bmws-new-ix3-is-the-shape-of-whats-to-come",
+    "pubDate": "9/5/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTUwMzE3/bmw-ix3---hero-shot.jpg",
+    "description": "Where the Bavarian automaker once planned to go with flexible platforms capable of using a variety of different powertrain technologies – from all-gas to all-electric – the Neue Klasse models are exclusively EV, a move BMW says will allow it to deliver better performance, longer range, faster ...",
+    "source": "Autoblog",
+    "titleSummary": "\"BMW Unveils iX3: A Glimpse into the Brand's Electric Future Takes Shape\"",
+    "descriptionSummary": "As part of its bold new strategy, BMW's latest models in the Neue Klasse series will be electric vehicles only. This shift enables the company to optimize performance, extend driving ranges, and accelerate charging capabilities, further cementing its commitment to sustainable motoring."
+  },
+  {
     "title": "You Can Wirelessly Charge The Porsche Cayenne EV Like a Smartphone",
     "link": "https://www.autoblog.com/news/you-can-wirelessly-charge-the-porsche-cayenne-ev-like-a-smartphone",
     "pubDate": "9/4/2025",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "Rivian Joins App-Enabled Ranks, Yet Holds Firm on In-Car Entertainment Partnership Rejection",
     "descriptionSummary": "Rivian owners with iPhones are in for a treat. The electric vehicle maker has begun integrating Apple's CarKey feature into select models, enabling seamless keyless entry and ignition using an iPhone or Apple Watch."
-  },
-  {
-    "title": "Hyundai's compact EV concept gets an official name",
-    "link": "https://www.autoblog.com/news/hyundai-ioniq-5s-baby-brother-gets-an-official-name",
-    "pubDate": "9/2/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ4OTI0/hyundai_ioniq_2_render7.jpg",
-    "description": "Hyundai has revealed the name of a compact EV concept it plans to unveil at the upcoming 2025 Munich Auto Show: Concept Three. That indicates the eventual production version will likely be called the Hyundai Ioniq 3, even though some reports hinted the name would be Ioniq 2. But Hyundai has ...",
-    "source": "Autoblog",
-    "titleSummary": "Hyundai unveils name for its buzzworthy city-sized electric vehicle prototype.",
-    "descriptionSummary": "Hyundai's compact electric vehicle concept is set to debut at the 2025 Munich Auto Show under the name Concept Three, suggesting a production model that will likely bear the Hyundai Ioniq 3 badge, rather than previously rumored Ioniq 2 moniker."
   }
 ]
