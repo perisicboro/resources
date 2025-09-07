@@ -1,5 +1,15 @@
 [
   {
+    "title": "Volkswagen Pauses ID.4 Production, Furloughs 160 Workers Due to Market Pressures",
+    "link": "https://www.autoblog.com/news/volkswagen-pauses-id-4-production-furloughs-160-workers",
+    "pubDate": "9/7/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5NDcxMTY0NzkwMDg5MzY2/vw-id4-on-production-line.jpg",
+    "description": "The Volkswagen ID.4 was full of promise when it came to the US market back in 2021. Since then, the compact electric SUV has enjoyed a series of ups and downs, vacillating between nigh-unsellable and serious contender. VW brought the nameplate substantial updates back in 2024, and it even managed ...",
+    "source": "Autoblog",
+    "titleSummary": "Volkswagen Halts Electric SUV Output, Lays Off Staff Amid Industry Slump",
+    "descriptionSummary": "When Volkswagen introduced the ID.4 to the US market in 2021, it showed great potential as a compact electric SUV. However, its sales trajectory has been marked by fluctuations over time, swinging between disappointing results and strong showings. A significant refresh in 2024 helped the vehicle regain momentum."
+  },
+  {
     "title": "Tesla, Ford, and Chevy EV Customers Buck the Leasing Trend",
     "link": "https://www.autoblog.com/news/tesla-ford-and-chevy-ev-customers-buck-the-leasing-trend",
     "pubDate": "9/6/2025",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Volkswagen's Cheapest Electric Car Fails to Find Buyers Despite Big Price Cuts\"",
     "descriptionSummary": "Volkswagen is temporarily halting production of its ID.4 electric SUV at its Tennessee factory due to a buildup of inventory, affecting around 160 workers who will be furloughed with partial pay until further notice starting in late October."
-  },
-  {
-    "title": "Ford F-150 Owners Sue Over Oil-Thirsty V8 Engines",
-    "link": "https://www.autoblog.com/news/ford-f-150-owners-sue-over-oil-thirsty-v8-engines",
-    "pubDate": "9/4/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTAyMDEy/ford-coyote-v8-engine.jpg",
-    "description": "Ford’s 5.0-liter Coyote V8 has built a reputation as one of the most dependable, enthusiast-loved engines in the truck world. But now, it’s the subject of a class-action lawsuit claiming the opposite: that certain F-150s burn oil at alarming rates, sometimes faster than they use gasoline. The case, ...",
-    "source": "Autoblog",
-    "titleSummary": "\"F-150 Drivers Take Ford to Court Over Gas-Guzzling V8 Problem\"",
-    "descriptionSummary": "Ford's iconic 5.0-liter Coyote V8 has long been revered for its reliability and popularity among truck enthusiasts. However, a recent class-action lawsuit alleges that some F-150 models experience excessively high oil consumption, potentially outpacing their fuel usage."
   }
 ]
