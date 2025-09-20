@@ -1,5 +1,15 @@
 [
   {
+    "title": "Jaguar Land Rover Cyberattack Is Forcing Layoffs at Its Suppliers",
+    "link": "https://www.autoblog.com/news/jaguar-land-rover-cyberattack-is-forcing-layoffs-at-its-suppliers",
+    "pubDate": "9/20/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQ5MTY2/uk-and-us-agree-new-tariff-trade-deal.jpg",
+    "description": "One of the United Kingdom's major automakers was severely impacted by a cyberattack late last month, and the consequences are spreading across its supply chain well beyond its factories. As a result, production at its facilities has been halted for nearly three weeks, resulting in billions of ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Global Carmaker's Cyber Breach Sparks Massive Supplier Downsizing Effort\"",
+    "descriptionSummary": "A prominent UK car manufacturer suffered a crippling cyberattack last month, disrupting operations and triggering a ripple effect throughout its extensive network of suppliers, forcing factory shutdowns that have lasted over two weeks and caused significant losses."
+  },
+  {
     "title": "Dodge's Future EVs Won't Need a Charger, Thanks to Radical New Battery Tech",
     "link": "https://www.autoblog.com/news/dodges-future-evs-wont-need-a-charger-thanks-to-radical-new-battery-tech",
     "pubDate": "9/20/2025",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Tesla's Most Affordable Model Bites the Dust: A Look at What Comes Next\"",
     "descriptionSummary": "Tesla's base Cybertruck model, initially met with skepticism, has been quietly removed from its online configurator. This move comes after Elon Musk first showcased the vehicle in 2019, highlighting its affordability and performance potential."
-  },
-  {
-    "title": "Owners Warned: Alfa Romeo Giulia, Stelvio at Risk of Sudden Power Loss",
-    "link": "https://www.autoblog.com/news/owners-warned-alfa-romeo-giulia-stelvio-at-risk-of-sudden-power-loss",
-    "pubDate": "9/17/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwODg1Mzk5/2025-alfa-romeo-stelvio.jpg",
-    "description": "Stellantis is recalling&nbsp;53,849 Alfa Romeo vehicles&nbsp;in the United States after federal safety regulators flagged a defect in their&nbsp;fuel delivery modules (FDMs)&nbsp;that can cause the engine to suddenly lose power. The affected vehicles are&nbsp;2017–2018 Alfa Romeo Giulia ...",
-    "source": "Autoblog",
-    "titleSummary": "Alfa Romeos' Hidden Threat: High-Risk Models Prone to Sudden Engine Shutdowns",
-    "descriptionSummary": "Alfa Romeo is issuing a recall for 53,849 vehicles in the US due to faulty fuel delivery systems that can lead to sudden engine stalls. Affected models include select 2017-2018 Giulias and possibly other year makes within this timeframe."
   }
 ]
