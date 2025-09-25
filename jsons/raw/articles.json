@@ -1,5 +1,15 @@
 [
   {
+    "title": "BMW Designer Hints at \"Way More Subtle\" Future Cars",
+    "link": "https://www.autoblog.com/news/bmw-designer-hints-at-way-more-subtle-future-cars",
+    "pubDate": "9/25/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTYwNzg5/p90548548_highres_the-all-new-bmw-m4-c.jpg",
+    "description": "Whether you love them or hate them, BMW’s giant kidney grilles have been one of the most controversial design moves of the past decade. The oversized vertical nostrils on cars like the G80 M3 and the latest 3 and 4 Series have divided opinion among consumers and seasoned BMW enthusiasts, as they ...",
+    "source": "Autoblog",
+    "titleSummary": "BMW's Sleek Future: A New Era of Understated Automotive Design Ahead",
+    "descriptionSummary": "BMW's bold new grille design has sparked intense debate among car enthusiasts. The distinctive, vertically-stacked front fascia on models like the M3 and 3/4 Series has split opinions on style and functionality."
+  },
+  {
     "title": "Acura Ends Production of Electric ZDX SUV",
     "link": "https://www.autoblog.com/news/acura-ends-production-of-electric-zdx-suv",
     "pubDate": "9/25/2025",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Trump Tariffs Take Bigger Bite Out of European Auto Suppliers in America\"",
     "descriptionSummary": "A shift in consumer behavior is evident among US users of AI-powered modding platform MOTORMIA, who are increasingly opting for domestic or alternative aftermarket parts, away from European sources, particularly Germany, Italy, France, and the UK, following the imposition of tariffs on imported vehicle components."
-  },
-  {
-    "title": "Stellantis Cybersecurity Breach: What Hackers Got and What Stayed Safe",
-    "link": "https://www.autoblog.com/news/stellantis-cybersecurity-breach-what-hackers-got-and-what-stayed-safe",
-    "pubDate": "9/22/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTMzMDc4/a-production-operator-at-the-sterling-heights-assembly-plant-sh.jpg",
-    "description": "Stellantis has confirmed a cybersecurity breach involving unauthorized access to a third-party service provider that handles the automaker's North American customer support operations. The company emphasizes that only basic contact information was compromised, with no financial data or sensitive ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Stellantis Hacked: The Good News and the Data That Got Away\"",
-    "descriptionSummary": "Stellantis has revealed a security incident in which hackers breached a third-party vendor responsible for handling its North American customer service. The affected information is limited to publicly available contact details, without compromising sensitive financial data."
   }
 ]
