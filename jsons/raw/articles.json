@@ -1,5 +1,15 @@
 [
   {
+    "title": "Acura Ends Production of Electric ZDX SUV",
+    "link": "https://www.autoblog.com/news/acura-ends-production-of-electric-zdx-suv",
+    "pubDate": "9/25/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwODk2NTEz/2024-acura-zdx-type-s.jpg",
+    "description": "According to new reports from multiple outlets, including Car Dealership Guy and CNBC, Honda's luxury arm, Acura, has concluded production of the ZDX, its first all-electric SUV. In a statement, a spokesperson for the brand confirmed the discontinuation, citing market conditions for electric ...",
+    "source": "Autoblog",
+    "titleSummary": "Acura Axes Electric ZDX SUV Line Amid Shift to Traditional Hybrid Models",
+    "descriptionSummary": "Acura has ceased production of its pioneering all-electric SUV, following a strategic decision to reevaluate its product lineup in response to shifting market demands and evolving consumer preferences in the electrified vehicle segment."
+  },
+  {
     "title": "FINALLY: Toyota's Developing Exciting Hybrid GR Models",
     "link": "https://www.autoblog.com/news/toyotas-next-hybrids-wont-just-save-gas-theyll-add-serious-power",
     "pubDate": "9/24/2025",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Stellantis Hacked: The Good News and the Data That Got Away\"",
     "descriptionSummary": "Stellantis has revealed a security incident in which hackers breached a third-party vendor responsible for handling its North American customer service. The affected information is limited to publicly available contact details, without compromising sensitive financial data."
-  },
-  {
-    "title": "Hyundai Bets on Hybrids and 600-Mile EREV as EV Sales Slow",
-    "link": "https://www.autoblog.com/news/hyundai-bets-on-hybrids-and-600-mile-erev-as-ev-sales-slow",
-    "pubDate": "9/22/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTM0NjYz/2026-hyundai-ioniq-6-n.jpg",
-    "description": "Hyundai Motor Group plans to boost production of “electrified” vehicles to 3.3 million a year by the end of the decade, CEO Jose Munoz has announced, meaning they will account for about 60% of the total 5.5 million vehicles the company expects to sell by then through its Hyundai, Kia and Genesis ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Hyundai Shifts Gears Amid Slowing Electric Car Demand\"",
-    "descriptionSummary": "Hyundai Motor Group aims to significantly increase production of eco-friendly vehicles, with a target of 3.3 million units annually by 2030, representing 60% of their expected 5.5 million total sales that year across Hyundai, Kia, and Genesis brands."
   }
 ]
