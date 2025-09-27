@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bosch To Cut 13,000 Jobs In Effort To Remain Competitive",
+    "link": "https://www.autoblog.com/news/bosch-to-cut-13000-jobs-in-effort-to-remain-competitive",
+    "pubDate": "9/27/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTYxOTk1/bosch-announces-job-cuts.jpg",
+    "description": "One of the world’s biggest auto parts suppliers, German firm Robert Bosch GmbH, known better as Bosch, is gearing up for some major change. According to new reporting from Bloomberg, the Tier 1 supplier announced that it will cut about 13,000 jobs, or roughly 3% of its global workforce by 2030, as ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Mass Layoffs Loom at Bosch in Bid to Stay Ahead of Industry Rivals\"",
+    "descriptionSummary": "Bosch, a leading international auto parts supplier, is embarking on significant restructuring efforts. The company plans to reduce its global workforce by around 13,000 positions, approximately 3%, over the next decade in an effort to revamp operations and stay competitive."
+  },
+  {
+    "title": "Tesla Urges EPA Not to Remove Emissions Rules Meant to Boost EV Sales",
+    "link": "https://www.autoblog.com/news/tesla-urges-epa-not-to-remove-emissions-rules-meant-to-boost-ev-sales",
+    "pubDate": "9/26/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTYyMDUz/vehicles-at-the-everything-electric-show.jpg",
+    "description": "In a detailed 27-page public comment letter addressed to the Environmental Protection Agency (EPA) posted online on September 24, electric vehicle giant Tesla voiced out against the Trump administration-controlled EPA’s proposal to scrap greenhouse gas emissions rules for cars. The company’s ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Tesla Fights to Preserve Carbon Credit Regulations Favoring Electric Vehicles\"",
+    "descriptionSummary": "The leading electric vehicle manufacturer has issued a plea to the US government, asking them to rethink their decision to withdraw backing for environmentally friendly electric vehicles nationwide."
+  },
+  {
     "title": "Tesla Just Changed How It Punishes Inattentive Drivers",
     "link": "https://www.autoblog.com/news/tesla-just-changed-how-it-punishes-inattentive-drivers",
     "pubDate": "9/26/2025",
@@ -108,16 +128,6 @@
     "source": "Autoblog",
     "titleSummary": "\"Early Adopters Left in the Dark on Latest Tech Upgrades for Their Rides\"",
     "descriptionSummary": "Rivian owners are in for a treat with the company's latest software update, which brings significant enhancements to their R1T pickup and R1S SUV experience. The new release includes numerous features designed to improve convenience, comfort, and overall performance behind the wheel."
-  },
-  {
-    "title": "Tesla Urges EPA Not to Remove Emissions Rules Meant to Boost EV Sales",
-    "link": "https://www.autoblog.com/news/trashed-3",
-    "pubDate": "9/25/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTYyMDUz/vehicles-at-the-everything-electric-show.jpg",
-    "description": "The EV giant is urging the Trump administration to reconsider its plans to rescind federal support for EVs.",
-    "source": "Autoblog",
-    "titleSummary": "\"Tesla Fights to Preserve Carbon Credit Regulations Favoring Electric Vehicles\"",
-    "descriptionSummary": "The leading electric vehicle manufacturer has issued a plea to the US government, asking them to rethink their decision to withdraw backing for environmentally friendly electric vehicles nationwide."
   },
   {
     "title": "Audi Q9 SUV Coming in 2026 With Room for the Whole Family",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Borrowers Reaching Debt Crisis Milestone with Record $1.6 Trillion in Auto Loan Burden\"",
     "descriptionSummary": "For many enthusiasts, endless hours spent researching and customizing online can be a painful reminder that buying a brand-new car remains a distant dream for most. Data suggests a significant gap between desire and affordability."
-  },
-  {
-    "title": "Volvo Commits to U.S. Growth with New Investment in South Carolina Plant",
-    "link": "https://www.autoblog.com/news/volvo-commits-to-u-s-growth-with-new-investment-in-south-carolina-plant",
-    "pubDate": "9/23/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTYwMTYx/volvo-car-charleston-plant-hero.jpg",
-    "description": "In an effort to maintain an \"increased focus on regional tailoring of products,\" and with an ambitious target of 50% volume growth over the next five years, Volvo has announced new plans to further invest in its Ridgeville production facility—located just outside of Charleston, South Carolina—along ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Volvo Pours Big Bucks into Palmetto State Facility for American Expansion Plans\"",
-    "descriptionSummary": "Volvo is doubling down on its commitment to regional customization, aiming for a 50% volume surge by 2027. To achieve this, the company will significantly expand its operations at a production site near Charleston, South Carolina."
   }
 ]
