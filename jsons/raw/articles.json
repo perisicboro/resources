@@ -1,5 +1,25 @@
 [
   {
+    "title": "Hertz is Expanding its Online Used Car Sales Operation",
+    "link": "https://www.autoblog.com/news/hertz-is-expanding-its-online-used-car-sales-operation",
+    "pubDate": "10/2/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTY1MDQ1/hertz.jpg",
+    "description": "In a statement released on September 30, rental car giant Hertz announced the launch of its own dedicated online platform to sell used cars directly to consumers. The Hertz Car Sales website is evolving from a simple online inventory catalog to a place where customers across the United States can ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Hertz Shifts Gears into E-Commerce with Expanded Pre-Owned Vehicle Market\"",
+    "descriptionSummary": "Hertz has unveiled a revamped online marketplace for buying pre-owned vehicles, allowing individuals nationwide to browse and purchase certified used cars directly on its dedicated platform, previously an online inventory hub."
+  },
+  {
+    "title": "What CarMax's Q2 Earnings Miss Tells Us About The Used Car Market",
+    "link": "https://www.autoblog.com/news/what-carmaxs-q2-earnings-miss-tells-us-about-the-used-car-market",
+    "pubDate": "10/2/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MDg5NDYxOTIwNzM3MTI0/carmax-auto-dealership.jpg",
+    "description": "While many signals suggest the pre-owned car market is strong, CarMax’s recent earnings call suggests something is amiss. A significant quarterly earnings miss for Q2 sent stock prices plummeting 25 percent to $0.64 per share. Heading into Q4, there are now significant questions about what will ...",
+    "source": "Autoblog",
+    "titleSummary": "\"CarMax's Disappointing Q2 Report Reveals Worrying Trends in Pre-Owned Auto Sales\"",
+    "descriptionSummary": "CarMax's second-quarter earnings report has raised concerns about the strength of the pre-owned car market, despite positive industry indicators. A major revenue miss caused a sharp decline in stock value, leaving investors wondering if this is a sign of things to come."
+  },
+  {
     "title": "Hyundai Slashes IONIQ 5 Prices as Federal EV Incentives Expire",
     "link": "https://www.autoblog.com/news/hyundai-slashes-ioniq-5-prices-as-federal-ev-incentives-expire",
     "pubDate": "10/1/2025",
@@ -378,25 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "Will the Toyota Corolla Cross Drive Sales to New Heights for Toyota?",
     "descriptionSummary": "Toyota's Corolla Cross subcompact SUV made a strong debut in 2024, selling over 93,000 units. This compact crossover fills the gap left by the outgoing C-HR, which will soon be revived as a battery-electric model."
-  },
-  {
-    "title": "NFL Star TeSlaa Scores Free Ford F-150 Lightning",
-    "link": "https://www.autoblog.com/news/teslaa-drives-a-ford-blue-oval-gives-nfl-star-a-free-f-150-lightning",
-    "pubDate": "9/29/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTYzNTM3/screenshot_20250929-123424.png",
-    "description": "The Ford family has a controlling stake in its hometown NFL team, the Detroit Lions, and one of that team's top rookies—Isaac TeSlaa—happens to have a last name that sounds a lot like a certain other automaker. That presented Ford with an obvious marketing opportunity, which the Blue Oval took ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Gridiron Great Scores Electric Ride: NFL Player Wins Luxury Pickup in Unique Promotion\"",
-    "descriptionSummary": "The Detroit Lions, owned in part by the Ford family, found themselves with a golden promotional chance when rookie Isaac TeSlaa joined their roster, his surname echoing a familiar automotive nameplate."
-  },
-  {
-    "title": "Why Smart Car Owners Are Putting Their Keys in Microwaves",
-    "link": "https://www.autoblog.com/news/why-smart-car-owners-are-putting-their-keys-in-microwaves",
-    "pubDate": "9/29/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MTc2OTM1MzczNjEyOTAw/2011-airstream-avenue.jpg",
-    "description": "Modern car thieves don't need to break windows or hot-wire ignitions anymore. They're using relay attacks to steal keyless entry vehicles in under 30 seconds, often while you're sleeping upstairs. Relay theft uses boosters to amplify the signal from a keyless remote control, meaning a key left ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Car Thieves Foiled by Clever Use of Kitchen Appliances\"",
-    "descriptionSummary": "Sophisticated car thieves are exploiting a vulnerability in modern vehicle security systems, using relay devices to amplify keyless remote signals and steal cars in as little as 30 seconds, often while owners are at home."
   }
 ]
