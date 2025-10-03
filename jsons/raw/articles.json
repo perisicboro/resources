@@ -1,5 +1,25 @@
 [
   {
+    "title": "BMW Launches Huge Discount Across Entire EV Lineup",
+    "link": "https://www.autoblog.com/news/bmw-ev-october-discount",
+    "pubDate": "10/3/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwODgzNjA4/bmw-i4.jpg",
+    "description": "BMW's October purchase credit equals the value of the discontinued tax creditDeal applies to i4, i5, iX, and i7 EVs2.99% APR financing and loyalty credit available for select EVs The disappearance of the federal tax credit for EVs is prompting an immediate response from several automakers. Hyundai ...",
+    "source": "Autoblog",
+    "titleSummary": "\"BMW Offers Major Price Cuts on Its Electric Vehicle Models Nationwide\"",
+    "descriptionSummary": "In response to the expiration of a key federal tax incentive, BMW is offering a purchase credit equivalent in value to help offset the loss, applicable to its i4, i5, iX, and i7 electric vehicles."
+  },
+  {
+    "title": "Dodge Durango’s V8 Gamble Pays Off With Best Q3 Sales In 20 Years",
+    "link": "https://www.autoblog.com/news/dodge-durangos-v8-sales-q3",
+    "pubDate": "10/3/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQwMDIx/2026-dodge-durango.jpg",
+    "description": "It’s been almost exactly 14 years since the third-generation Dodge Durango went into production. Although it has been updated multiple times over that period, it’s still a pretty old platform under the skin. Despite this, the Durango just achieved its best Q3 sales in 20 years, which means it’s the ...",
+    "source": "Autoblog",
+    "titleSummary": "Dodge's Full-Size SUV Sees Surprise Surge in Third Quarter Demand.",
+    "descriptionSummary": "The Dodge Durango is nearing its 14th year on the market, with its underlying architecture dating back even further. Yet, it remains a solid performer, as evidenced by its strongest third-quarter sales in two decades."
+  },
+  {
     "title": "Toyota's Biggest SUV Might Go Plug-In—But There's a Catch",
     "link": "https://www.autoblog.com/news/toyotas-biggest-suv-might-go-plug-in-but-theres-a-catch",
     "pubDate": "10/3/2025",
@@ -378,25 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Electric Dream Turns to Nightmare: Latest Dodge Charger Concept Falls Flat\"",
     "descriptionSummary": "Dodge's high-performance flagship, the Charger Daytona SRT Banshee, was poised to spearhead the brand's electrification push. As a spiritual successor to the mighty SRT Hellcat, it promised a new era of electrified excess and sophistication."
-  },
-  {
-    "title": "Trump Ends EV Tax Credit—Ford and GM Step In With $7,500 Incentives",
-    "link": "https://www.autoblog.com/news/as-trump-ends-ev-tax-credit-ford-and-gm-step-in-with-7500-incentives",
-    "pubDate": "10/1/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTU3NDIz/ford-explorer-ev-production-at-ford-electric-vehicle-center-cologne-1.jpg",
-    "description": "Ford and GM are working with their dealer networks to introduce programs that would essentially extend consumers a $7,500 credit instead of the now-dead $7,500 federal tax credit for EV buyers. On September 30, the federal EV tax credit expired under a new Trump administration decree, upending the ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Automakers Fill Void Left by Fading Electric Car Tax Break\"",
-    "descriptionSummary": "Ford and General Motors are collaborating with their dealers to launch alternative incentives that effectively replace the defunct $7,500 federal electric vehicle tax credit, now nullified by a recent policy change."
-  },
-  {
-    "title": "U.S. Senators Demand Tesla FSD Investigation Over Rail Crossing Safety Risks",
-    "link": "https://www.autoblog.com/news/u-s-senators-demand-tesla-fsd-investigation-over-rail-crossing-safety-risks",
-    "pubDate": "9/30/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MDg5MzU2OTYzNDU2NjI0/losangeles-aug22teslamodelydrivenby.jpg",
-    "description": "Two U.S. senators are pressing federal regulators to launch an investigation into Tesla’s Full Self-Driving (FSD) system, raising alarms over how the technology behaves around railroad crossings. Their call underscores mounting unease in Washington about the safety of advanced driver-assistance ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Safety Alarm Sounds at Tesla's Autopilot Crossroads\"",
-    "descriptionSummary": "Two US lawmakers are urging a probe into Tesla's FSD system after concerns emerged about its behavior at railroad crossings, highlighting growing scrutiny in DC over the safety implications of cutting-edge automotive tech."
   }
 ]
