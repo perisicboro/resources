@@ -1,13 +1,23 @@
 [
   {
-    "title": "Ford’s ECU Locks Are Driving Mustang Buyers Away—Even the CEO’s Son",
+    "title": "Toyota Must Fix 400,000 Tundra, Sequoia, And Tacoma Vehicles In Two Separate Recalls",
+    "link": "https://www.autoblog.com/news/toyota-recalls-400000-tundra-sequoia-tacoma-backup-cameras-driveshafts",
+    "pubDate": "10/3/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTI2MTQ2/2026-toyota-tundra.jpg",
+    "description": "Toyota issued two recalls in one day, with one for faulty backup cameras and another for bad driveshafts.Approximately 394,000 vehicles are involved in the backup camera recall, and 6,000 in the driveshaft recall.The recalls affect 2022-2025 Tundra, 2023-2025 Sequoia, and 2025 Tacoma vehicles. The ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Massive Recall Hits Toyota, Affecting Over 400,000 Trucks and SUVs Across Three Models\"",
+    "descriptionSummary": "Toyota has launched a pair of recalls affecting over 400,000 vehicles. One involves faulty backup cameras on certain models from 2022 to 2025, while another addresses a driveshaft issue in about 6,000 units from 2023 to 2025 Tacomas and 2022-2025 Tundras and Sequoias."
+  },
+  {
+    "title": "How ECU Locks Are Costing Ford the Mustang's Future",
     "link": "https://www.autoblog.com/news/fords-ecu-locks-are-driving-mustang-buyers-away-even-the-ceos-son",
     "pubDate": "10/3/2025",
     "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEyMTQ5MDAwMTI2ODAxNDQz/2025-ford-mustang-gtd-spirit-of-america-edition.jpg",
     "description": "When the S650 generation Ford Mustang debuted, Ford locked down its engine control unit through its new Fully-Networked Vehicle electrical architecture. While this brought over the air updates and improved cybersecurity, it shut out the aftermarket tuning community that has been the lifeblood of ...",
     "source": "Autoblog",
-    "titleSummary": "\"Ford's Engine Control System Snag Turns Off Potential Mustang Buyers in Droves\"",
-    "descriptionSummary": "When the latest Ford Mustang rolled off the line, its advanced computer system was designed to be impenetrable - a security measure that allows for seamless updates, but also bars the aftermarket tuning scene from accessing and modifying the vehicle's performance."
+    "titleSummary": "\"Ford Faces Headwinds as European Union Lockdown Threatens Iconic Mustang's Existence\"",
+    "descriptionSummary": "The 2024 Ford Mustang's cutting-edge tech comes at a cost: it's now virtually impenetrable to aftermarket tuners. The latest update bars outside developers from accessing the engine control unit, stifling innovation and creativity in the performance tuning scene."
   },
   {
     "title": "Ford’s New Electrified Bronco Basecamp Stuns China With Pop-Up Camping Roof",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "Hyundai Unveils Tougher, High-Performance Version of its Flagship Ioniq 9 EV Model",
     "descriptionSummary": "Hyundai's Ioniq 9 electric SUV is a trailblazer in the growing three-row EV market, but it's about to get a major boost with the introduction of a tough new variant. This rugged refresh promises to expand its appeal to a wider audience."
-  },
-  {
-    "title": "40,000 Kia Sorento Owners Should Only Dial Their A/C Fans Up To 2",
-    "link": "https://www.autoblog.com/news/40000-kia-sorento-owners-should-only-dial-their-a-c-fans-up-to-2",
-    "pubDate": "10/1/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MTIyODQ5Mzg4NDM5MTUy/2022-sorento-phev.jpg",
-    "description": "Air-conditioning is a non-negotiable feature for many drivers, especially during the hottest months. With summer slowly winding down, the need for maximum cooling power may not be as urgent, but for some Kia Sorento owners, there’s a new reason to keep the fan setting in check. Kia has issued a ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Kia Sorento Owners Warned to Limit A/C Fan Speed Amid Safety Issue\"",
-    "descriptionSummary": "As summer's sweltering days begin to fade, Kia Sorento drivers are being advised to monitor their air conditioning settings, as the manufacturer has announced a potentially crucial update affecting cooling performance in certain models."
   }
 ]
