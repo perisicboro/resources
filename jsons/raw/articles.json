@@ -1,5 +1,25 @@
 [
   {
+    "title": "MINI Copies BMW, Introduces Its Own \"ChargeForward\" EV Charging Platform",
+    "link": "https://www.autoblog.com/news/mini-copies-bmw-introduces-its-own-chargeforward-ev-charging-platform",
+    "pubDate": "10/11/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTY2NTY5/mini-chargeforward.jpg",
+    "description": "As it presses forward on its own electrification journey, MINI is following in the footsteps of its parent brand, BMW, by introducing a “ChargeForward” program for MINI vehicles. The program is available on the 2025 and newer MINI Countryman SE ALL4, 2020-2024 MINI Cooper Hardtop 2 Door, and ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Mini Paves Road for Wireless Charging with 'TurboCharge' Network Rollout\"",
+    "descriptionSummary": "MINI continues its push towards electrification with the launch of \"ChargeForward\", a program designed to support owners of eligible models in their transition to electric driving. Participating vehicles include the 2025+ Countryman SE ALL4 and select Cooper Hardtop variants from 2020-2024."
+  },
+  {
+    "title": "Lyft’s Newest Robotaxis Can Make Money When You’re Not Using It",
+    "link": "https://www.autoblog.com/news/lyft-newest-robotaxi-can-make-money-when-youre-not-using-it",
+    "pubDate": "10/11/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTcwMjk3/lead-tensor_10.jpg",
+    "description": "In a new announcement, ridesharing giant Lyft has partnered with the Silicon Valley-based autonomous vehicle company Tensor, launching what could be the most ambitious robotaxi program yet. What makes it different this time around is that not only will regular, everyday people be able to hail rides ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Lyft's Autonomous Cars Now Earn Passive Income on Idle Rides\"",
+    "descriptionSummary": "Lyft and Tensor are teaming up to revolutionize urban transportation with a pioneering autonomous ride-hailing service, where ordinary citizens can summon robotic taxis via the Lyft app, marking a major milestone in the development of self-driving cars."
+  },
+  {
     "title": "Toyota to Launch World’s First Solid-State Battery EVs",
     "link": "https://www.autoblog.com/news/toyota-to-launch-worlds-first-solid-state-battery-evs",
     "pubDate": "10/11/2025",
@@ -378,25 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "Chevrolet Takes on EV Rivalry with Bolt's Updated Specs and Price Tag",
     "descriptionSummary": "Chevrolet is poised to shake up the electric vehicle landscape with its 2027 Bolt EV, which will debut at a competitive starting price of $28,995. Deliveries are expected to begin early in 2026, ahead of a potentially crowded market."
-  },
-  {
-    "title": "Rivian's CEO Explains Why AI Is Causing Them To Skip CarPlay Integration",
-    "link": "https://www.autoblog.com/news/rivian-ceo-explains-why-ai-is-causing-them-to-skip-carplay-integration",
-    "pubDate": "10/9/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTIyNTUw/photo-922550.jpg",
-    "description": "For many drivers, Apple’s CarPlay infotainment system interface is the default view, as automakers are notoriously bad (that’s being generous, in most cases) at developing useful software. With the increasing push towards electrification, the in-car experience has the chance to prove itself as a ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Rivian Chief Defends Decision to Omit Apple CarPlay from Their Electric Vehicles\"",
-    "descriptionSummary": "As cars shift towards electric powertrains, the in-car experience is ripe for innovation. Unfortunately, many drivers default to Apple's CarPlay due to automakers' often lacking infotainment systems, leaving room for improvement and fresh ideas."
-  },
-  {
-    "title": "Jeep and Dodge Offer Massive Discounts After Government Pulls EV Tax Credit",
-    "link": "https://www.autoblog.com/news/jeep-and-dodge-offer-massive-discounts-after-government-pulls-ev-tax-credit",
-    "pubDate": "10/8/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwODg3MTMz/dodge-charger-daytona-evs-sit-in-the-lot-at-the-stellantis-windsor-assembly-plant-in-windsor-ontario-canada.jpg",
-    "description": "The federal electric vehicle tax credit expired in September, leaving dealers with lots full of electric vehicles and suddenly less competitive pricing. Stellantis decided not to wait around for government intervention. Instead, the automaker implemented its own bonus cash program that matches the ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Automakers Rush to Clear Inventory as Electric Vehicle Incentive Sputters Out\"",
-    "descriptionSummary": "With the federal EV tax credit expiration in September, many dealerships were left struggling to compete in a market with reduced incentives. Stellantis took matters into its own hands, launching a new bonus cash program to boost electric vehicle sales."
   }
 ]
