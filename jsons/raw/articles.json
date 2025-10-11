@@ -1,5 +1,25 @@
 [
   {
+    "title": "BMW Just Built the World’s First AI Car Factory",
+    "link": "https://www.autoblog.com/news/bmw-just-built-the-worlds-first-ai-car-factory",
+    "pubDate": "10/11/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTcwNTM1/bmw-group-plant-debr.jpg",
+    "description": "Find out how BMW's Debrecen plant uses AI tech and renewables to revolutionize EV manufacturing.\n\n",
+    "source": "Autoblog",
+    "titleSummary": "\"Revolution on Wheels: BMW Unveils Groundbreaking AI-Powered Vehicle Assembly Plant\"",
+    "descriptionSummary": "Discover the innovative approach behind BMW's Debrecen facility, where cutting-edge artificial intelligence and sustainable energy solutions are transforming the production of electric vehicles into a high-tech, eco-friendly process."
+  },
+  {
+    "title": "Finally, a Restomod Builder Brave Enough to Ignore the Porsche 911",
+    "link": "https://www.autoblog.com/news/finally-a-restomod-builder-brave-enough-to-ignore-the-porsche-911",
+    "pubDate": "10/11/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTY3NDAw/aerfal-automotive-ae94-porsche-restomod-top-view.png",
+    "description": "The Porsche 904 Carrera GTS stands as one of Stuttgart's most significant racing machines. With only 106 examples built between 1963 and 1964, this mid-engined marvel won several races, including first and second at the 1964 Targa Florio. Meanwhile, the Porsche 914 occupies the opposite end of the ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Taking on the Unholy Trinity: A Rebel's Approach to Restored Supercars\"",
+    "descriptionSummary": "In the Porsche stable, few cars embody racing excellence like the 904 Carrera GTS. Built in limited numbers between '63 and '64, it proved a winning machine, claiming top spots at the 1964 Targa Florio among other victories. In contrast, its more laid-back counterpart, the 914, represents another iconic chapter in Porsche's storied history."
+  },
+  {
     "title": "Keep things simple with this 1994 Ford Ranger XL",
     "link": "https://www.autoblog.com/news/this-1994-ford-ranger-xl-shows-what-modern-trucks-are-missing",
     "pubDate": "10/11/2025",
@@ -378,25 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Peeking Inside the 2027 Hyundai Santa Fe's Sleek New Cabin Design\"",
     "descriptionSummary": "Freshly surfaced spy shots give us a glimpse of the 2027 Hyundai Santa Fe, boasting an updated aesthetic and sleeker interior refinements that signal a bold new direction for this popular SUV."
-  },
-  {
-    "title": "$35K Dilemma: Would You Buy a 278K-Mile Mercedes G-Wagen or a New Toyota Camry?",
-    "link": "https://www.autoblog.com/news/35k-dilemma-would-you-buy-a-278k-mile-mercedes-g-wagen-or-a-new-toyota-camry",
-    "pubDate": "10/9/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTY5ODY5/2003-mercedes-benz-g500-front.jpg",
-    "description": "The Mercedes-Benz G-Class has evolved from a military workhorse into a status symbol, but underneath all that glitz remains one of the most capable off-roaders ever built. There aren’t many cars that can hit the trail one day and be one of the most recognizable luxury status symbols on the planet ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Trade-Off Tactic: 278K-Mile Luxury Ride vs. Brand-New Family Sedan for Under $40,000\"",
-    "descriptionSummary": "From rugged origins to luxurious icon, the Mercedes-Benz G-Class has traded its utilitarian roots for high-end status, yet beneath its glamorous facade lies a vehicle of unparalleled off-road prowess."
-  },
-  {
-    "title": "Kia’s New Battery Tech Could Save EV Owners Thousands in Repairs",
-    "link": "https://www.autoblog.com/news/kias-new-battery-tech-could-save-ev-owners-thousands-in-repairs",
-    "pubDate": "10/9/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MDg5NTM0NjcwMjE4ODY0/kia-ev3-concept-front-three-quarter.jpg",
-    "description": "Battery-monitoring system checks individual cells for problemsKia says this allows for more targeted repairs, saving customers moneyEuropean Union will require battery-health monitoring starting in 2027 Most of the value of an electric vehicle is tied up in its battery pack, so ensuring that pack ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Kia's Groundbreaking Battery Upgrade Puts an End to Costly Electric Vehicle Fixes\"",
-    "descriptionSummary": "A cutting-edge battery health check system identifies and addresses individual cell issues before they cause damage, enabling efficient and cost-effective repairs. This technology is set to become mandatory in European Union vehicles by 2027."
   }
 ]
