@@ -1,5 +1,35 @@
 [
   {
+    "title": "This $25,000 Minivan is a Cheaper Honda Odyssey Alternative Americans Can’t Buy",
+    "link": "https://www.autoblog.com/news/this-25000-minivan-is-a-cheaper-honda-odyssey-alternative-americans-cant-buy",
+    "pubDate": "10/14/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTcyNzA4/byd-emax-7-headlamp-grill.png",
+    "description": "If you’ve ever looked at electric family haulers in the US, you’ll know they’re kind of… expensive. Browsing through the most affordable EVs will burn a $30,000 hole in your bank statement, and that’s before the options list starts to look tempting for a family looking for a 7-seater. Across the ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Affordable Family Hauler: $25,000 Van Beats Out Elusive Honda Odyssey\"",
+    "descriptionSummary": "Electric family vehicles in the US can be pricey, with even budget-friendly models costing upwards of $30,000 - not counting add-ons. Affordable seven-seat EVs are particularly elusive and often come with hefty price tags."
+  },
+  {
+    "title": "Average New Car Price Crosses $50K Barrier as Americans Struggle to Keep Up",
+    "link": "https://www.autoblog.com/news/average-new-car-price-crosses-50k",
+    "pubDate": "10/14/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTcyNzE5/obi-jicr3-o8ko8-unsplash.jpg",
+    "description": "Roughly halfway through the year, the average transaction price (ATP) of a new vehicle in the United States stood at $48,799. Since then, factors like tariffs and the switch to the 2026 model year have seen prices rise, making cheap vehicles increasingly hard to find. Based on new estimates from ...",
+    "source": "Autoblog",
+    "titleSummary": "The $50,000 Car Club: How Affordability Crisis Hits American Drivers Hard",
+    "descriptionSummary": "As we reach the midpoint of the year, the typical cost of a brand-new vehicle in America has already surpassed $48,000. With trade tensions and new model releases driving price hikes, affordable options are rapidly disappearing from dealer lots."
+  },
+  {
+    "title": "Nissan Tells Leaf Owners: Stop Fast Charging Immediately Amid Fire Risk",
+    "link": "https://www.autoblog.com/news/nissan-tells-leaf-owners-stop-fast-charging-immediately-amid-fire-risk",
+    "pubDate": "10/14/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTcyODA4/2022-nissan-leaf-fire-hazard-sign.png",
+    "description": "Nissan has just expanded its Leaf recall to include an additional 19,077 vehicles from the 2021 and 2022 model years, bringing the total number of affected electric vehicles to nearly 45,000. The recall covers both 40 kilowatt hour and 62 kilowatt hour battery versions built at Nissan's Smyrna ...",
+    "source": "Autoblog",
+    "titleSummary": "Nissan Orders Emergency Brake on High-Voltage Charging for Popular Electric Vehicle Model",
+    "descriptionSummary": "Nissan has issued an expanded recall for its Leaf electric vehicle, affecting over 19,000 more cars from the 2021 and 2022 model years, bringing the total number of vehicles impacted to nearly 45,000."
+  },
+  {
     "title": "New Safety Rules Could Force Tesla to Redesign Its Door Handles",
     "link": "https://www.autoblog.com/news/new-regulations-might-force-tesla-to-rethink-its-iconic-door-handles-heres-why-its-a-big-deal",
     "pubDate": "10/14/2025",
@@ -368,35 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Market Momentum Gains Speed, but Lags Behind Optimistic Projections\"",
     "descriptionSummary": "Lucid Motors has achieved unprecedented success with 4,078 vehicle deliveries in Q3, 2025, shattering previous records for the seventh time running and showcasing a significant 46% year-over-year surge. This milestone suggests the company's production efforts are finally hitting their stride."
-  },
-  {
-    "title": "Honda CR-V Turns 30: 4 Milestone Models That Shaped Its Legacy",
-    "link": "https://www.autoblog.com/news/honda-cr-v-30th-anniversary-milestones",
-    "pubDate": "10/12/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTY5NzE1/1997-honda-cr-v.jpg",
-    "description": "A staple of the Honda lineup for years, the CR-V compact crossover has just turned 30. Yes, this RAV4 rival was officially introduced in Japan three decades ago, when the first generation went on sale there. Since then, the CR-V has become Honda’s best-selling individual model in several markets, ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Three Decades of Innovation: The Evolutionary Journeys Behind Honda's Beloved Compact SUV\"",
-    "descriptionSummary": "The Honda CR-V celebrates a major milestone: 30 years of compact crossover excellence. Introduced in Japan three decades ago as the first-generation model, it's since become a top seller worldwide and a key player in Honda's global lineup."
-  },
-  {
-    "title": "Drivers Furious as Volvo’s New Key System Only Works With iPhones",
-    "link": "https://www.autoblog.com/news/drivers-furious-as-volvos-new-key-system-only-works-with-iphones",
-    "pubDate": "10/12/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MDg5NjI1NjY2MTY4Njc2/2025-volvo-ex30-awd.jpg",
-    "description": "Volvo's controversial decision to replace traditional key fobs with credit card-style keys in its EX30 and EX90 electric vehicles may be short-lived. Stephen Connor, Managing Director of Volvo Australia, revealed to Drive that the company is considering scrapping the key card system entirely based ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Volvo's iPhone Exclusive Locks Out Other Smartphone Owners\"",
-    "descriptionSummary": "Volvo's innovative key-card system, introduced in its EX30 and EX90 models, may soon face an unexpected overhaul. According to Volvo Australia's Managing Director, a major rethink could be on the cards due to evolving consumer preferences and concerns."
-  },
-  {
-    "title": "Mercedes Says It Wants a Fossil-Free Future—But Won’t Give Up Gas Engines",
-    "link": "https://www.autoblog.com/news/mercedes-says-it-wants-a-fossil-free-future-but-wont-give-up-gas-engines",
-    "pubDate": "10/12/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTUyNDMw/der-neue-mercedes-benz-glc-mit-eq-technologie-kompromisslos-berzeugendthe-all-new-mercedes-benz-glc-with-eq-technology-effortlessly-uncompromising.jpg",
-    "description": "Mercedes has a new plan to reduce carbon emissions in its partsHowever, its messaging is weakened by its stance on internal combustion enginesMercedes' CEO has lobbied against the EU's 2035 ban This week, Mercedes-Benz announced it was the \"first automotive company to join the 'Renewable Carbon ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Mercedes Pledges to Go Green, But Its Roadmap Still Runs on Fossil Fuels\"",
-    "descriptionSummary": "Mercedes-Benz has outlined a strategy to reduce carbon emissions in its components, but its efforts are complicated by its CEO's opposition to an impending EU ban on internal combustion engines."
   }
 ]
