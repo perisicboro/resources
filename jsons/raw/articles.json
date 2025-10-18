@@ -1,5 +1,55 @@
 [
   {
+    "title": "Prankster Traps 50 Waymo Self-Driving Cars in Dead End",
+    "link": "https://www.autoblog.com/news/how-one-23-year-old-crashed-waymos-robotaxis-using-a-dead-end-street",
+    "pubDate": "10/18/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwODg1ODQy/waymo-suvs.jpg",
+    "description": "Waymo's artificial intelligence can deal with busy city streets with zero human input, but it turns out all you need to bring the system to its knees is a dead-end street and a smart prankster. Riley Walz, a 23-year-old software engineer, orchestrated what he dubbed the \"world's first Waymo DDoS\" ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Self-Driving Saga Unfolds as Mischief-Maker Leads 50 Waymo Vehicles Astray\"",
+    "descriptionSummary": "A talented hacker put Waymo's cutting-edge AI to the test by exploiting a seemingly innocuous glitch - a dead-end street - and cleverly manipulating the system with a prank that brought it crashing down."
+  },
+  {
+    "title": "The 2026 Alfa Romeo Tonale Is Leaner, Louder, and More Beautiful Than Ever",
+    "link": "https://www.autoblog.com/news/the-2026-alfa-romeo-tonale-is-leaner-louder-and-more-beautiful-than-ever",
+    "pubDate": "10/18/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTc0OTk1/2026-alfa-romeo-tonale-sport-speciale.jpg",
+    "description": "Alfa Romeo has given the Tonale a subtle, but important refresh for 2026, doubling down on design and driving emotion while quietly retiring its plug-in-hybrid powertrain. With sharper looks inspired by classic Alfas and a more focused lineup, the compact luxury SUV aims to reignite interest in a ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Revamped Alfa Romeo Tonale Roars to Life with Edgy New Design, Improved Performance\"",
+    "descriptionSummary": "For 2026, Alfa Romeo's Tonale gets a sleek update, distilling the brand's signature style into a more streamlined, driving-oriented package that's sure to rekindle passion for this stylish compact luxury SUV."
+  },
+  {
+    "title": "BMW Achieves Record V8 Sales While Expanding Its EV Future",
+    "link": "https://www.autoblog.com/news/bmws-gas-guzzlers-are-thriving-v8-sales-soar-even-as-the-brand-goes-electric",
+    "pubDate": "10/18/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTI1Nzc2/2025-bmw-m5.jpg",
+    "description": "BMW has revealed that it sold more&nbsp;V8-powered models in 2024&nbsp;than in any year in its history, even as the brand continues to accelerate its electric vehicle rollout. In an interview with&nbsp;Motor1, Development chief Dr. Joachim Post confirmed that \"last year, we had the most sales of ...",
+    "source": "Autoblog",
+    "titleSummary": "\"V8 Revival: BMW Sees Surging Demand as it Paves Way for Electric Era\"",
+    "descriptionSummary": "BMW has reached a remarkable milestone, selling more V8-powered vehicles in 2024 than ever before, despite accelerating its transition to electric cars. According to Development chief Dr. Joachim Post, last year was a record-breaker for these powerful models."
+  },
+  {
+    "title": "Ferrari SC40 Tries to Live Up to the F40 — But Falls Short",
+    "link": "https://www.autoblog.com/news/ferrari-sc40-tries-to-live-up-to-the-f40-but-falls-short",
+    "pubDate": "10/18/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTc1OTcz/ferrari-sc40.jpg",
+    "description": "There's a reason the Ferrari F40 is still considered one of the ultimate expressions of Maranello's engineering and character. Built to mark Ferrari's 40th anniversary and approved personally by Enzo Ferrari before his passing in 1988, it was the first production car to break the 200 mph barrier ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Ferrari's Latest Superstar Stumbles in the Shadow of a Legendary Icon\"",
+    "descriptionSummary": "The Ferrari F40 remains an iconic masterpiece of Italian automotive craftsmanship, embodying the company's pioneering spirit as it celebrated its 40th anniversary with a groundbreaking achievement: becoming the first production car to reach speeds over 200 miles per hour."
+  },
+  {
+    "title": "Lexus GX Is Over $5k Pricier Than Two Years Ago Without Major Change",
+    "link": "https://www.autoblog.com/news/lexus-gx-is-over-5k-pricier-than-two-years-ago-with-no-major-changes",
+    "pubDate": "10/18/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTYzOTQ3/2025-lexus-gx-overtrail.jpg",
+    "description": "The Lexus GX is the higher-end alternative to the Toyota Land Cruiser, meant for buyers who prefer a familiar platform dressed in a more refined creature space within the cabin. However, it's undeniable that the model's getting pricier than ever. After a round of price adjustments in 2025, Lexus ...",
+    "source": "Autoblog",
+    "titleSummary": "Lexus' Luxury SUV Jumps in Price, Sparking Questions About Value for Money",
+    "descriptionSummary": "The Lexus GX offers a luxurious twist on the Toyota Land Cruiser's rugged foundation, catering to those seeking a premium cabin experience. Unfortunately, its latest price hike has made it less accessible than ever before, especially following 2025's pricing revisions."
+  },
+  {
     "title": "The Average New Car Price Is Now Over $50k In The US, And EVs Are To Blame",
     "link": "https://www.autoblog.com/news/the-average-new-car-price-is-now-over-50k-in-the-us-and-evs-are-to-blame",
     "pubDate": "10/17/2025",
@@ -348,55 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Design Flaw Behind Fatal Car Crash Raises Alarm for Smartphone Giant Xiaomi\"",
     "descriptionSummary": "Xiaomi's stock took a sharp hit, plummeting over 5.7% after a devastating crash of its SU7 model in Chengdu sparked widespread concern over the safety of its electric vehicles, erasing billions from its market valuation instantly."
-  },
-  {
-    "title": "The World Just Bought 2 Million EVs in One Month — and There’s No Slowing Down",
-    "link": "https://www.autoblog.com/news/the-world-just-bought-2-million-evs-in-one-month-and-theres-no-slowing-down",
-    "pubDate": "10/15/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTczNTM3/benefit_in_kind_ev-71622942.jpg",
-    "description": "Global electric vehicle sales reached an all-time high in September, with&nbsp;2.1 million units&nbsp;delivered worldwide, a 26% increase compared with the same month last year, according to research firm Rho Motion. It’s the first time monthly EV sales have surpassed the two-million mark, ...",
-    "source": "Autoblog",
-    "titleSummary": "Electric Vehicles Zoom to Record Sales, Leaving Competition in the Dust",
-    "descriptionSummary": "Global electric vehicle sales surged in September, hitting a record-breaking high of 2.1 million units sold worldwide. This represents a significant 26% increase over the same period last year, according to recent data from Rho Motion."
-  },
-  {
-    "title": "1995 Mercedes-Benz SL72 AMG For Sale With 42,000 Miles: A 7.2-Liter V12 That Pagani Fell In Love With",
-    "link": "https://www.autoblog.com/news/for-sale-1995-mercedes-benz-sl72-amg-bat",
-    "pubDate": "10/15/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTczNzgz/1995-mercedes-benz-sl72-amg.jpg",
-    "description": "\"They just don't make 'em like they used to.\" It's an expression that is oft overused, but it certainly applies in the case of this 1995 Mercedes-Benz SL72 AMG, currently up for auction on Bring a Trailer. Just 35 of these were built under the guidance of legendary engineer and designer Bruno ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Rare V12 Beast from '95 Mercedes-Benz Slips onto the Market with Scarcely 70K Under Its Belt\"",
-    "descriptionSummary": "A rare breed indeed, this 1995 Mercedes-Benz SL72 AMG is one of just 35 examples created under the expert eye of Bruno Sacco, a true legend in automotive design. Now, it's up for grabs on Bring a Trailer."
-  },
-  {
-    "title": "Your Dodge Dart Might Not Be Where You Left It Thanks To A Botched Recall",
-    "link": "https://www.autoblog.com/news/stellantis-recalls-almost-300k-dodge-dart-rollaway",
-    "pubDate": "10/15/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MTc5MTkxODM5NTY1NDI0/2013-dodge-dart-gt.jpg",
-    "description": "Despite having been out of production for almost a decade, the Dodge Dart continues to make headlines, both good and bad. One the one hand, half a dozen new Darts were sold last quarter, but on the other, the National Highway Traffic Safety Administration has now announced a recall for almost ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Thousands of Owners Still Struggling to Fix Faulty Recalls on Their Dodges\"",
-    "descriptionSummary": "The Dodge Dart remains in the spotlight nearly a decade after its production ended, fueled by an unexpected sales revival alongside concerns raised by the National Highway Traffic Safety Administration over vehicle safety issues."
-  },
-  {
-    "title": "Move Over, Lexus: Toyota’s Century Brand Takes Luxury Further",
-    "link": "https://www.autoblog.com/news/toyota-century-brand-ultra-luxury-segment",
-    "pubDate": "10/15/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTcxNjc5/century-coupe-concept_01_07.jpg",
-    "description": "Almost two years ago, Forbes reported that Toyota was planning to position ‘Century’ as an ultra-luxury brand to sit above Lexus, presumably to challenge the likes of Rolls-Royce and Bentley. A Toyota executive who chose to remain anonymous let this plan slip at the time, as there was no official ...",
-    "source": "Autoblog",
-    "titleSummary": "Lexus' Reign Challenged: Toyota's Ultra-Luxury Flagship Steals Spotlight",
-    "descriptionSummary": "Toyota's alleged plans to launch a new ultra-luxury brand, reportedly aimed at rivaling high-end marques like Rolls-Royce and Bentley, have been circulating since 2020. The rumored venture would position itself above Lexus in Toyota's hierarchy."
-  },
-  {
-    "title": "Ford Scales Back Lithium Deal as EV Demand Cools",
-    "link": "https://www.autoblog.com/news/ford-scales-back-lithium-deal-as-ev-demand-cools",
-    "pubDate": "10/15/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTE0NDQx/ford-issues-recalls-on-some-of-its-mach-e-mustangs-and-aviators.jpg",
-    "description": "Ford is scaling back one of its key electric vehicle supply deals as the company rethinks its EV strategy amid slowing demand and tighter margins. The automaker will buy less lithium and delay taking shipments from Liontown Resources, the Australian miner developing the Kathleen Valley project, ...",
-    "source": "Autoblog",
-    "titleSummary": "Ford Slows Down on Lithium Supply Pact Amid Cooling Electric Car Sales",
-    "descriptionSummary": "Ford is adjusting a crucial partnership for sourcing essential materials as it overhauls its electric vehicle plans in response to declining sales and increasing competition. The company will reduce lithium purchases and slow deliveries from an Australian mining venture, pending further review."
   }
 ]
