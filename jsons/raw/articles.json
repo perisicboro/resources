@@ -1,5 +1,15 @@
 [
   {
+    "title": "European Cities Warn That Accepting US Car Standards Will Risk European Lives",
+    "link": "https://www.autoblog.com/news/european-cities-warn-that-accepting-us-car-standards-will-risk-european-lives",
+    "pubDate": "10/23/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTc4Njg3/france-politics-parliament-lower-house.jpg",
+    "description": "In a recently published letter addressed to European Union officials, dated October 20, public officials from prominent European cities such as Paris, Brussels and Amsterdam, as well as more than 75 civil society organizations in the region, have warned that the EU must revisit what it calls a ...",
+    "source": "Autoblog",
+    "titleSummary": "EU Leaders Fear Adopting US Auto Rules May Imperil Road Safety Across Continent",
+    "descriptionSummary": "A coalition of government representatives from major European cities and over 75 regional non-profits has sounded the alarm to EU officials, urging them to re-examine key policies affecting the continent's future."
+  },
+  {
     "title": "Free EV Charging at Home? Volvo’s Big New Perk Starts in Sweden",
     "link": "https://www.autoblog.com/news/free-ev-charging-at-home-volvos-big-new-perk-starts-in-sweden",
     "pubDate": "10/22/2025",
@@ -388,15 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"German Innovators Unveil Game-Changing Electric Car Engine with Jaw-Dropping Efficiency Gains\"",
     "descriptionSummary": "A Munich-based start-up is making waves in the automotive sector with cutting-edge electric motor innovation. Its compact design boasts impressive efficiency gains, potentially paving the way for significant technological advancements in electric vehicle propulsion systems."
-  },
-  {
-    "title": "The Feds Are Probing Waymo After a Driverless Taxi Ignored a School Bus Full of Kids",
-    "link": "https://www.autoblog.com/news/the-feds-are-probing-waymo-after-a-driverless-taxi-ignored-a-school-bus-full-of-kids",
-    "pubDate": "10/20/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEwMzE0MDg1MTM5NDkwMzgy/waymo-jaguar-i-pace.jpg",
-    "description": "An investigation opened by the National Highway Traffic and Safety Administration (NHTSA) alleges traffic safety violations committed by Waymo driverless taxis around a stopped school bus, specifically \"when the bus [was] boarding of offboarding students.\" Evidently, that's a dangerous time for a ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Fed Investigation Launched into Self-Driving Car's Near-Miss with School Bus Loaded with Students\"",
-    "descriptionSummary": "The NHTSA has launched an investigation into allegations that Waymo autonomous vehicles failed to yield to a stopped school bus, putting student safety at risk during a critical moment when children are getting on or off the vehicle."
   }
 ]
