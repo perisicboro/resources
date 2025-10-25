@@ -1,5 +1,25 @@
 [
   {
+    "title": "General Motors Ends BrightDrop Van Production as Factory Sits Idle",
+    "link": "https://www.autoblog.com/news/general-motors-ends-brightdrop-van-production-as-factory-sits-idle",
+    "pubDate": "10/25/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTc3NjQz/edmonton-auto-expo-highlights.jpg",
+    "description": "According to recently published reports by Automotive News and CBC News, General Motors said it plans to cease production of its BrightDrop electric commercial vans in Canada, citing difficulties gaining traction in its segment against competitors. During the automaker's third-quarter earnings call ...",
+    "source": "Autoblog",
+    "titleSummary": "GM Haults BrightDrop Van Output, Leaving Factory in Downtime Silence",
+    "descriptionSummary": "General Motors has announced plans to discontinue production of its BrightDrop electric vans in Canada due to struggling sales, outpaced by competitors in a competitive market. The decision was made public during the company's recent quarterly earnings report."
+  },
+  {
+    "title": "IIHS Researchers Say Brighter Headlights Aren't Causing More Crashes",
+    "link": "https://www.autoblog.com/news/iihs-researchers-say-brighter-headlights-arent-causing-more-crashes",
+    "pubDate": "10/25/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTgwMjYy/tuning-world-bodensee-2025.jpg",
+    "description": "If you drive often at night, a situation like this has probably happened to you. You're driving along on a road that is either dimly or barely lit by streetlights, and a set of headlights from a car in the opposite lane emerges from the distance, only to get progressively brighter, much brighter, ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Headlight Upgrade Won't Put Drivers in Harm's Way, New Study Reveals\"",
+    "descriptionSummary": "A familiar nighttime scenario: cruising down a poorly lit road when the piercing glow of oncoming headlights appears, growing steadily brighter until it's almost blinding."
+  },
+  {
     "title": "This Million-Dollar 599 GTB Is The Last Ferrari Ever Made With A Manual Gearbox",
     "link": "https://www.autoblog.com/news/for-sale-final-manual-ferrari-599-gtb-fiorano",
     "pubDate": "10/24/2025",
@@ -378,25 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Volvo Unveils Revolutionary In-Home Electric Vehicle Charging Initiative for Swedish Customers\"",
     "descriptionSummary": "Volvo is launching a new initiative for Swedish buyers of its electric vehicles, providing one year of complimentary home charging through a collaboration with energy provider Vattenfall, starting in February 2026."
-  },
-  {
-    "title": "VW Pauses ID. Buzz Production Amid Weak Sales and $60K Price Tag",
-    "link": "https://www.autoblog.com/news/vw-pauses-id-buzz-production-amid-weak-sales-and-60k-price-tag",
-    "pubDate": "10/22/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEzMTM3NDc1NTc1NzUyMTQz/2025-vw-id-buzz.jpg",
-    "description": "Volkswagen’s retro-inspired ID. Buzz set out to revive the spirit of the Microbus for the electric age. It’s stylish, practical, and packed with personality. But one year after launch, the excitement has cooled. The automaker has paused production of the ID. Buzz at its Hanover, Germany, plant ...",
-    "source": "Autoblog",
-    "titleSummary": "Volkswagen Halts ID. Buzz Output Due to Soft Demand and Premium Pricing",
-    "descriptionSummary": "Volkswagen's nostalgic ID. Buzz aimed to breathe new life into the iconic Microbus for the electric era, blending style and practicality with a dash of personality. However, nearly 12 months after its debut, enthusiasm has begun to wane. Production of the ID. Buzz has been temporarily halted at Volkswagen's Hanover facility in Germany."
-  },
-  {
-    "title": "Porsche Working on Radical New W18 Engine With Three Banks of Cylinders",
-    "link": "https://www.autoblog.com/news/porsche-working-on-radical-new-w18-engine-with-three-banks-of-cylinders",
-    "pubDate": "10/22/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTc4NDk1/porsche-w18-engine-ai.jpg",
-    "description": "Just a few days after we reported on Porsche’s patent detailing the application of electrically-assisted twin turbos to combat flow stall, the German Patent and Trade Mark Office (DPMA) has disclosed another Porsche patent, this time describing a unique W18 motor. Filed in April of 2024 and only ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Revolutionary Road: Porsche Unveils Groundbreaking 18-Cylinder Engine with Triple Power Sources\"",
-    "descriptionSummary": "Porsche has filed a new patent with the DPMA, revealing a cutting-edge W18 engine design. This innovative motor is the latest in a string of patents from the German automaker, showcasing its commitment to pushing automotive boundaries."
   }
 ]
