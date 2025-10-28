@@ -1,5 +1,25 @@
 [
   {
+    "title": "Feds Expand Probe Into GM's V8 Engine Failure Issue",
+    "link": "https://www.autoblog.com/news/feds-expand-probe-into-gms-v8-engine-failure-issue",
+    "pubDate": "10/28/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTAwNzk2/gm-l87-v8-engine-teardown-1.png",
+    "description": "GM has been dealing with a problem under the hood, specifically, the ubiquitous 6.2-liter L87 V8 engine. Used in models such as the Chevrolet Silverado, GMC Sierra, and Cadillac Escalade, the L87 has been linked to engine failures across hundreds of thousands of vehicles in the US. Following ...",
+    "source": "Autoblog",
+    "titleSummary": "\"GM Faces Widening Federal Investigation Over Troubling V8 Engine Defects\"",
+    "descriptionSummary": "General Motors is facing a significant issue with its 6.2-liter V8 engine, used in popular models like the Silverado, Sierra, and Escalade, where premature failure has affected hundreds of thousands of American owners over recent years."
+  },
+  {
+    "title": "Massive Ram ProMaster Recall For Fire Risk Could Impact Fleets Nationwide",
+    "link": "https://www.autoblog.com/news/massive-ram-promaster-recall-for-fire-risk-could-impact-fleets-nationwide",
+    "pubDate": "10/28/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTgxMzU2/three-2025-ram-promasters.jpg",
+    "description": "Chrysler’s Ram division is recalling nearly 292,000 ProMaster vans built between 2018 and 2026 due to a potential fire hazard linked to the cooling fan module, according to the National Highway Traffic Safety Administration (NHTSA). The recall primarily affects fleet vehicles, and FCA believes ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Ram ProMaster Owners Face Urgent Fire Hazard Alert Issued for Thousands of Vehicles\"",
+    "descriptionSummary": "A significant safety notice has been issued for nearly 292,000 Ram ProMaster vans produced between 2018 and 2026. A malfunctioning cooling fan module poses a fire risk, prompting an investigation by the National Highway Traffic Safety Administration. Affected vehicles are primarily those used in commercial fleets."
+  },
+  {
     "title": "Toyota's New Infotainment System Aims To Set A New Standard",
     "link": "https://www.autoblog.com/news/toyotas-new-infotainment-system-aims-to-set-a-new-standard",
     "pubDate": "10/28/2025",
@@ -378,25 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Ferrari's Exclusive Recall Club: Just Six Lucky Owners Receive the News\"",
     "descriptionSummary": "Ferrari's success hinges on its reputation for exclusivity, with only a select few lucky enough to drive one of their highly sought-after vehicles - just over 13,700 in 2024, up significantly from around 9,100 in 2020."
-  },
-  {
-    "title": "Mercedes-Benz USA Wins National Award for Child Injury Prevention Efforts",
-    "link": "https://www.autoblog.com/news/mercedes-benz-usa-just-earned-the-highest-safety-praise-and-its-all-about-protecting-children",
-    "pubDate": "10/25/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTc3NDU3/mbusa_clifford-roadshow_pr_01.jpg",
-    "description": "Mercedes-Benz USA (MBUSA) has been recognized by&nbsp;Safe Kids Worldwide&nbsp;with the Champion for Children Award for its leadership in child injury prevention. The award, presented at the 2025&nbsp;PrevCon Childhood Injury Prevention Convention, highlights Mercedes’ growing role in community ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Mercedes-Benz Earns Top Honors for Pioneering Safety Measures for Young Road Users\"",
-    "descriptionSummary": "Mercedes-Benz USA is being honored with a prestigious award for its commitment to safeguarding children's well-being. The recognition, bestowed at a leading industry conference, underscores the company's expanding efforts to promote injury prevention and safety initiatives within local communities."
-  },
-  {
-    "title": "Porsche Cayenne Electric: 3 Breakthroughs Powering Its Battery Tech",
-    "link": "https://www.autoblog.com/news/porsche-cayenne-electric-battery-tech",
-    "pubDate": "10/25/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTc5ODEw/porsche-cayenne-ev.jpg",
-    "description": "As the electric version of the popular Porsche Cayenne, there’s a lot riding on the success of the upcoming Cayenne Electric. Overflowing with innovation, Porsche has already revealed the SUV’s interior, which debuts the new Porsche Flow Display. It’s not the kind of advancement that’ll make 911 ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Electric Pulse: How Porsche's Cayenne Revolutionizes EV Performance with Cutting-Edge Innovation\"",
-    "descriptionSummary": "The highly anticipated electric Cayenne is set to revolutionize the luxury SUV market. Featuring a groundbreaking interior design, Porsche's latest creation boasts an innovative display system, marking a significant leap forward in automotive technology."
   }
 ]
