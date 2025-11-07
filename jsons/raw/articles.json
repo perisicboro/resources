@@ -1,5 +1,25 @@
 [
   {
+    "title": "Ford’s $13 Billion EV Losses Put the F-150 Lightning’s Future at Risk",
+    "link": "https://www.autoblog.com/news/fords-13-billion-ev-losses-put-the-f-150-lightnings-future-at-risk",
+    "pubDate": "11/7/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjEyMTc0ODY1NDkzNzMwODI1/2022-ford-f-150-lightning.jpg",
+    "description": "While the F-150 Lightning has been a steady (but not spectacular) seller for Ford, sales recently plummeted due to the $7,500 tax credit scheme for EVs coming to an end. If anything, the EV offerings of the Blue Oval saw a steep decline in October. But it seems that the battery-powered pickup is at ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Fiat of Fate: How Ford's Electric Gamble Could Short-Circuit Its Best-Seller\"",
+    "descriptionSummary": "Ford's F-150 Lightning has struggled to gain traction despite its initial promise, with sales dipping sharply after the expiration of the federal tax credit incentive for electric vehicles. The trend continued into October, marking a significant downturn."
+  },
+  {
+    "title": "Toyota’s V6 Engine Nightmare Continues as Another 127,000 Models Recalled",
+    "link": "https://www.autoblog.com/news/toyotas-v6-engine-recall-for-tundra-and-lexus-lx",
+    "pubDate": "11/7/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTg4Mjgz/photo-988283.jpg",
+    "description": "Toyota’s bulletproof reliability reputation has taken another blow, and the same twin-turbocharged V6 engine is to blame. Last year, over 100,000 Toyota Tundras and Lexus LX models with this engine were implicated in a recall, with Toyota promising to replace the engines of affected models. Now, ...",
+    "source": "Autoblog",
+    "titleSummary": "\"V6 Fiasco Deepens as Toyota Issues Huge Recall for Additional 127,000 Vehicles\"",
+    "descriptionSummary": "A fresh crisis has hit Toyota's reputation for durability, stemming from issues with its twin-turbocharged V6 engine. Over 100,000 Tundra and Lexus LX owners are affected, following a recall last year that pledged engine replacements. Problems persist."
+  },
+  {
     "title": "Americans Are More Upside Down on Car Loans Than Ever — And It’s Getting Worse",
     "link": "https://www.autoblog.com/news/americans-are-more-upside-down-on-car-loans-than-ever-and-its-getting-worse",
     "pubDate": "11/7/2025",
@@ -378,25 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "\"Sienna Savings Soar in November: Exclusive Leasing Offers Unveiled for 2025 Model Year\"",
     "descriptionSummary": "Ditching bulky SUVs and crossovers, families are turning to minivans for uncompromising practicality. The Toyota Sienna is currently leading the charge, but it's a close call - just 2,900 units separate the top contenders."
-  },
-  {
-    "title": "Toyota Recalls More Than 1 Million Vehicles For A Potentially Dangerous Glitch",
-    "link": "https://www.autoblog.com/news/toyota-recalls-over-1-million-cars-faulty-backup-camera",
-    "pubDate": "11/5/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5MTUzMTMwMjQ3MTA0MTEy/2016-toyota-tacoma-trd-sport-4x4-badge.jpg",
-    "description": "Ford recently made news for recalling 1.5 million cars over a backup camera defect, and now the world's largest automaker is dealing with a similar problem. Toyota announced that it is conducting a noncompliance safety recall that impacts approximately 1,025,000 vehicles in the U.S. with Panoramic ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Massive Toyota Recall Issued Over Defect That Could Pose Serious Safety Risks\"",
-    "descriptionSummary": "Toyota has initiated a safety recall affecting over 1 million US vehicles equipped with defective panoramic view monitors, prompting concerns about driver visibility and road safety following a recent high-profile vehicle recall by Ford involving a similar issue."
-  },
-  {
-    "title": "Ford’s EV Struggles Don’t Matter When Its Trucks Sell Like This",
-    "link": "https://www.autoblog.com/news/fords-ev-struggles-dont-matter-when-its-trucks-sell-like-this",
-    "pubDate": "11/5/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTg2NDc4/2025-ford-maverick.jpg",
-    "description": "Ford’s U.S. sales climbed 1.6 percent year-over-year to 174,584 vehicles, with pickups leading the charge. The company sold 105,771 trucks in October, nearly 5 percent higher than the same month last year. This growth was driven primarily by the demand for their Maverick and Ranger models, while ...",
-    "source": "Autoblog",
-    "titleSummary": "Ford's Electric Headaches Ignored Amid Record-Breaking Truck Sales Frenzy",
-    "descriptionSummary": "Ford's US sales surged 1.6% from last year, with pickups spearheading the increase to 174,584 vehicles. Truck sales jumped 5% in October, fueled by strong demand for the Maverick and Ranger models."
   }
 ]
