@@ -1,5 +1,55 @@
 [
   {
+    "title": "Fiat 500 Hybrid Makes the Nissan Kicks Look Like a Rocket",
+    "link": "https://www.autoblog.com/news/fiat-500-hybrid-makes-the-nissan-kicks-look-like-a-rocket",
+    "pubDate": "11/22/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTk5NDU1/fiat500hybridtorino-4.jpg",
+    "description": "The Fiat 500 Hybrid is officially back in the brand’s lineup, and production has already started at the Mirafiori plant in Turin. Offered in Hatchback, 3+1, and Cabrio body styles, it arrives in Pop, Icon, and La Prima trims, plus the Torino launch edition that nods to the model’s birthplace. ...",
+    "source": "Autoblog",
+    "titleSummary": "Hybrid Hot Seat: Fiat 500 Leaves Nissan Kicks in Dust",
+    "descriptionSummary": "The Fiat 500 Hybrid has returned to the market with a bang, kicking off production at Turin's Mirafiori plant. It comes in three bodystyles - hatchback, coupe-like 3+1, and convertible cabriolet - in four distinct trim levels: Pop, Icon, La Prima, and a special Torino launch edition that pays homage to its Italian heritage."
+  },
+  {
+    "title": "Ford Still Makes a Sedan — And There's No Chance of It Coming to the US",
+    "link": "https://www.autoblog.com/news/ford-still-makes-a-sedan-but-theres-no-chance-of-it-coming-to-the-us",
+    "pubDate": "11/22/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTk4NjY5/8_20251121_112533_0007.jpg",
+    "description": "We get it –&nbsp;crossovers, SUVs, and pickups sell, and sedans, hatchbacks, and wagons aren't as profitable anymore. Ford took that to heart in 2018 by saying it would be axing its lower-riding vehicles that aren't badged as Mustangs. We can only imagine the riot if Ford even hinted at killing off ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Ford's Only Remaining Rear-Wheel Drive Beauty Heads Abroad, Not Stateside\"",
+    "descriptionSummary": "As sales of crossovers, SUVs, and pickups continue to soar, many automakers are rethinking their sedans, hatchbacks, and wagons. Ford's 2018 pivot marked a turning point, with lower-riding models meeting the axe. The backlash against such a move would likely be fierce."
+  },
+  {
+    "title": "Nissan Pathfinder Could Return to Its Roots as a Body-on-Frame SUV",
+    "link": "https://www.autoblog.com/news/nissan-pathfinder-could-return-to-its-roots-as-a-body-on-frame-suv",
+    "pubDate": "11/22/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTkzMjY1/2026-nissan-pathfinder-3-4.jpg",
+    "description": "The Nissan Pathfinder has never stayed in one lane for long. Its earliest versions were unapologetically truck-like, built on the same bones as Nissan's Hardbody pickup and aimed squarely at drivers who actually needed ground clearance and a proper frame. That formula carried the model through much ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Nissan's Off-Road Heritage Revival: A Possible Return to Body-On-Frame Excellence\"",
+    "descriptionSummary": "From rugged off-road rigs to sleek family haulers, the Nissan Pathfinder has consistently defied categorization throughout its history, evolving from a utilitarian truck-based design to a more refined, versatile vehicle."
+  },
+  {
+    "title": "Software Error Triggers Recall of Nearly 230,000 Ford Bronco SUVs",
+    "link": "https://www.autoblog.com/news/software-error-triggers-recall-of-nearly-230000-ford-bronco-suvs",
+    "pubDate": "11/22/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTg0NDgw/2025-ford-bronco-badlands-off-road-forest-46.jpg",
+    "description": "Although the Bronco and Bronco Sport are incredibly successful models in Ford’s lineup, they are not without their problems. While one-off software glitches are fairly common these days, Blue Oval’s latest recall addresses something far more widespread. 229,609 vehicles, including 101,002 examples ...",
+    "source": "Autoblog",
+    "titleSummary": "Ford Recalls Thousands of Broncos Amid Glitch That Imperils Vehicle Safety.",
+    "descriptionSummary": "Ford's highly popular Bronco and Bronco Sport have experienced issues beyond minor software hiccups, prompting a large-scale recall that affects nearly a quarter million units, with over 100,000 of those being the sport variant."
+  },
+  {
+    "title": "Nissan Xterra Will Be \"Fun, Simple, and Capable\" — Priced Under $40,000",
+    "link": "https://www.autoblog.com/news/nissan-xterra-will-be-fun-simple-and-capable-priced-under-40000",
+    "pubDate": "11/22/2025",
+    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTk5NDM0/nissan-xterra.jpg",
+    "description": "The Xterra was once Nissan's straight-cut rival to the Toyota 4Runner – compact enough to maneuver, rugged enough for trails, and stripped of anything unnecessary. It survived for two generations until its eventual discontinuation in 2015. However, it's become increasingly clear Nissan intends to ...",
+    "source": "Autoblog",
+    "titleSummary": "\"Nissan's Revamped Xterra Packs a Punch in an Affordable Package\"",
+    "descriptionSummary": "Nissan's Xterra was a trailblazing SUV that effortlessly balanced agility with off-road prowess, jettisoning frills for functional simplicity. After a successful run spanning two generations, it ceased production in 2015. Recent hints suggest its spirit may live on."
+  },
+  {
     "title": "These Luxury Brands Came Out On Top Of Sales Satisfaction",
     "link": "https://www.autoblog.com/news/these-luxury-brands-came-out-on-top-of-sales-satisfaction",
     "pubDate": "11/22/2025",
@@ -348,55 +398,5 @@
     "source": "Autoblog",
     "titleSummary": "Tesla Trims 400 Kilos From Luxe SUV, Rebooting It for Weightless Performance",
     "descriptionSummary": "Over the past few decades, vehicles have significantly expanded in size and heft due to stricter safety regulations, increased feature demands, and the integration of hybrid technology, often resulting in weights exceeding 4,000 pounds."
-  },
-  {
-    "title": "Hyundai’s New $7,500 Carbon Fiber Kit Makes the Ioniq 6 N Even Wilder",
-    "link": "https://www.autoblog.com/news/hyundais-new-7500-carbon-fiber-kit-makes-the-ioniq-6-n-even-wilder",
-    "pubDate": "11/19/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTk3MDUz/hyundai-ioniq-6-n-n-performance-parts-4.jpg",
-    "description": "Hyundai has unveiled a&nbsp;$7,500 carbon-fibre performance kit&nbsp;for the Ioniq 6 N, giving owners a factory-backed way to push the high-performance EV’s aerodynamics and handling even further. The package includes new carbon-fibre splitters, skirts and a rear diffuser, plus a double-deck rear ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Hyundai Supercharges the Ioniq 6 N with Exotic $7,500 Carbon Fiber Upgrade\"",
-    "descriptionSummary": "Hyundai's latest accessory for the Ioniq 6 N is a premium carbon fibre upgrade package worth $7,500. This official enhancement bolsters the EV's aerodynamics and handling capabilities with sleek new components, including a rear diffuser and dual-tiered spoiler."
-  },
-  {
-    "title": "$600k Range Rover Holland & Holland Edition Outguns the Rolls-Royce Cullinan",
-    "link": "https://www.autoblog.com/news/range-rover-holland-and-holland-edition",
-    "pubDate": "11/19/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTk3MTIy/photo-997122.jpg",
-    "description": "The Range Rover SV sits right at the top of the Land Rover family tree, merging opulence and off-road capability like few other SUVs. Both SV trims—the normal one and the SV Black—cost comfortably north of $200,000, and for many, they’ll be more than enough luxury SUV. But Overfinch, the British ...",
-    "source": "Autoblog",
-    "titleSummary": "Luxury SUV Showdown: New £600k Range Rover Takes Aim at Cullinan Crown",
-    "descriptionSummary": "At the pinnacle of Land Rover's lineup is the Range Rover SV, a luxurious and rugged off-road icon that seamlessly blends high-end refinement with unbridled capability. Its premium price tag - over $200,000 - reflects its unparalleled opulence."
-  },
-  {
-    "title": "This $2,000 Nose Job Makes Your Miata Look 20 Years Older… In A Good Way",
-    "link": "https://www.autoblog.com/news/this-2000-nose-job-makes-your-miata-look-20-years-older-in-a-good-way",
-    "pubDate": "11/19/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTk3MTkz/mazda-mx-5-scud-power-long-nose-conversion-front.jpg",
-    "description": "The fourth-generation Mazda MX-5 is already a good-looking car, but there’s no denying its toothy grille takes a while to get used to. Japanese aftermarket specialist Scud Power has just the solution, with its long-nose conversion kit taking the ND Miata to another level. By replacing the Miata’s ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Midlife Crisis in Metal: $2,000 Mod Puts a Mature Twist on the Miata\"",
-    "descriptionSummary": "Mazda's stylish MX-5 gets an upgrade with the help of Scud Power, a Japanese company that offers a sleek long-nose conversion kit, transforming the car's distinctive front end for a fresh new look."
-  },
-  {
-    "title": "Volvo EX90 Owners Can Now Use Their SUV to Power Their Homes",
-    "link": "https://www.autoblog.com/news/volvo-ex90-owners-can-now-use-their-suv-to-power-their-homes",
-    "pubDate": "11/19/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTk3MDQ0/4109a2d6-header-volvo-dcbel-op1-copy_100000000000000000001o.jpg",
-    "description": "Volvo EX90 owners in the United States can now use their electric SUV as a&nbsp;vehicle-to-home (V2H) power source, thanks to new bi-directional charging support integrated with the dcbel Ara Home Energy Station. The system allows the EX90’s battery to send power back into a home’s electrical ...",
-    "source": "Autoblog",
-    "titleSummary": "\"Volvo's Electric Pioneers Get a Charge Out of Home Energy Hubs\"",
-    "descriptionSummary": "Volvo EX90 drivers in the US can now harness their electric SUV's potential as an on-demand power source, thanks to the integration of bi-directional charging capabilities with the dcbel Ara Home Energy Station. This innovative system enables seamless energy transfer between vehicle and home."
-  },
-  {
-    "title": "Volkswagen Sued Over Claims Haptic Controls Cause Unintended Acceleration",
-    "link": "https://www.autoblog.com/news/volkswagen-sued-over-claims-haptic-controls-cause-unintended-acceleration",
-    "pubDate": "11/19/2025",
-    "imageUrl": "https://www.autoblog.com/.image/c_fit%2Ch_800%2Cw_1200/NzowMDAwMDAwMDAwOTQwMjY1/photo-940265.jpg",
-    "description": "Over the last couple of years, several automakers have declared war on the good ol' button. We're seeing more cars with basic functions being moved to the touchscreen, along with smooth haptic controls on the steering wheel and other control panels. Some continue to insist on moving to a glass ...",
-    "source": "Autoblog",
-    "titleSummary": "\"VW Faces Lawsuit Alleging Faulty Pedal Response in Certain Models\"",
-    "descriptionSummary": "Car manufacturers are phasing out traditional buttons in favor of intuitive touchscreens and tactile steering wheel controls, transforming the driving experience through seamless integration of technology and design."
   }
 ]
